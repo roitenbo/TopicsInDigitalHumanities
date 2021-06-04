@@ -1,0 +1,3424 @@
+{
+	"list": {
+		"row-0": {
+			"num": "1",
+			"name": "סלמה",
+			"fatherName": "ישראל",
+			"lastName": "דחבש",
+			"religion": "תימן",
+			"age": "18 ח",
+			"notes": "הועבר ממשטרת ישראל",
+			"caseNum": "נ/1"
+		},
+		"row-1": {
+			"num": "2",
+			"name": "סעדה",
+			"fatherName": "סלם",
+			"lastName": "מרחום",
+			"religion": "תימן",
+			"age": "2 ש",
+			"notes": "הועבר ממשטרת ישראל",
+			"caseNum": "נ/2"
+		},
+		"row-2": {
+			"num": "3",
+			"name": "רחל",
+			"fatherName": "יחיא",
+			"lastName": "חסן",
+			"religion": "תימן",
+			"age": "2 ח",
+			"notes": "הועבר ממשטרת ישראל",
+			"caseNum": "נ/3"
+		},
+		"row-3": {
+			"num": "4",
+			"name": "שמעון",
+			"fatherName": "סלם",
+			"lastName": "עוקשי",
+			"religion": "תימן",
+			"age": "4 ש",
+			"notes": "הועבר ממשטרת ישראל",
+			"caseNum": "נ/4"
+		},
+		"row-4": {
+			"num": "5",
+			"name": "חממה",
+			"fatherName": "שלמה",
+			"lastName": "חג'בי",
+			"religion": "תימן",
+			"age": "2 ש",
+			"notes": "הועבר ממשטרת ישראל",
+			"caseNum": "נ/5"
+		},
+		"row-5": {
+			"num": "6",
+			"name": "זוהרה",
+			"fatherName": "ישראל",
+			"lastName": "אשרי",
+			"religion": "תימן",
+			"age": "10 ש",
+			"notes": "הועבר ממשטרת ישראל",
+			"caseNum": "נ/6"
+		},
+		"row-6": {
+			"num": "7",
+			"name": "סלם",
+			"fatherName": "יונה",
+			"lastName": "שמעון",
+			"religion": "עירק",
+			"age": "11 ח",
+			"notes": "הועבר ממשטרת ישראל",
+			"caseNum": "נ/7"
+		},
+		"row-7": {
+			"num": "8",
+			"name": "סעדה",
+			"fatherName": "סולימאן",
+			"lastName": "רמאדן",
+			"religion": "עירק",
+			"age": "10 ח",
+			"notes": "הועבר ממשטרת ישראל",
+			"caseNum": "נ/8"
+		},
+		"row-8": {
+			"num": "9",
+			"name": "נאוה",
+			"fatherName": "מוסלם",
+			"lastName": "שרעבי",
+			"religion": "עירק",
+			"age": "8 ח",
+			"notes": "הועבר ממשטרת ישראל",
+			"caseNum": "נ/9"
+		},
+		"row-9": {
+			"num": "10",
+			"name": "נפל",
+			"fatherName": "מוסלם",
+			"lastName": "שרעבי",
+			"religion": "עירק",
+			"age": "0.5 יום",
+			"notes": "הועבר ממשטרת ישראל",
+			"caseNum": "נ/357"
+		},
+		"row-10": {
+			"num": "11",
+			"name": "יחיאל",
+			"fatherName": "סעדיה",
+			"lastName": "חוברה",
+			"religion": "עירק",
+			"age": "3 ח",
+			"notes": "הועבר ממשטרת ישראל",
+			"caseNum": "נ/10"
+		},
+		"row-11": {
+			"num": "12",
+			"name": "ישראל",
+			"fatherName": "סלח",
+			"lastName": "אשוואל",
+			"religion": "עירק",
+			"age": "8 ח",
+			"notes": "הועבר ממשטרת ישראל",
+			"caseNum": "נ/11"
+		},
+		"row-12": {
+			"num": "13",
+			"name": "שמחה",
+			"fatherName": "דוד",
+			"lastName": "סלימן",
+			"religion": "עירק",
+			"age": "1 ש",
+			"notes": "הועבר ממשטרת ישראל",
+			"caseNum": "נ/12"
+		},
+		"row-13": {
+			"num": "14",
+			"name": "ציונה",
+			"fatherName": "סלם",
+			"lastName": "סלם",
+			"religion": "עירק",
+			"age": "18 ח",
+			"notes": "הועבר ממשטרת ישראל",
+			"caseNum": "נ/13"
+		},
+		"row-14": {
+			"num": "15",
+			"name": "חיים",
+			"fatherName": "יהושע",
+			"lastName": "ג'מל",
+			"religion": "עירק",
+			"age": "10 ח",
+			"notes": "הועבר ממשטרת ישראל",
+			"caseNum": "נ/14"
+		},
+		"row-15": {
+			"num": "16",
+			"name": "לאה",
+			"fatherName": "שמואל",
+			"lastName": "שרעבי",
+			"religion": "עירק",
+			"age": "3 ש",
+			"notes": "הועבר ממשטרת ישראל",
+			"caseNum": "נ/15"
+		},
+		"row-16": {
+			"num": "17",
+			"name": "רבקה-יעל",
+			"fatherName": "יעקב",
+			"lastName": "אוזן",
+			"religion": "טוניס",
+			"age": "10 ח",
+			"notes": "הועבר ממשטרת ישראל",
+			"caseNum": "נ/16"
+		},
+		"row-17": {
+			"num": "18",
+			"name": "דוד",
+			"fatherName": "שמעון",
+			"lastName": "ודעי",
+			"religion": "תימן",
+			"age": "1 ח",
+			"notes": "הועבר ממשטרת ישראל",
+			"caseNum": "נ/17"
+		},
+		"row-18": {
+			"num": "19",
+			"name": "רחמים",
+			"fatherName": "שקר",
+			"lastName": "שקר",
+			"religion": "עירק",
+			"age": "8 ח",
+			"notes": "הועבר ממשטרת ישראל",
+			"caseNum": "נ/18"
+		},
+		"row-19": {
+			"num": "20",
+			"name": "נעמה",
+			"fatherName": "יחיא",
+			"lastName": "סלח",
+			"religion": "תימן",
+			"age": "18 ח",
+			"notes": "הועבר ממשטרת ישראל",
+			"caseNum": "נ/21"
+		},
+		"row-20": {
+			"num": "21",
+			"name": "חיים",
+			"fatherName": "סלימן",
+			"lastName": "בהגלי",
+			"religion": "תימן",
+			"age": "10 ח",
+			"notes": "הועבר ממשטרת ישראל",
+			"caseNum": "נ/22"
+		},
+		"row-21": {
+			"num": "22",
+			"name": "נעמה-נג'ימה",
+			"fatherName": "סלאס",
+			"lastName": "חוקיימה",
+			"religion": "תימן",
+			"age": "1 ש",
+			"notes": "הועבר ממשטרת ישראל",
+			"caseNum": "נ/88"
+		},
+		"row-22": {
+			"num": "23",
+			"name": "רחל",
+			"fatherName": "מעידה",
+			"lastName": "כהן",
+			"religion": "תימן",
+			"age": "6 ח",
+			"notes": "הועבר למשטרת ישראל",
+			"caseNum": "נ247"
+		},
+		"row-23": {
+			"num": "24",
+			"name": "ציון",
+			"fatherName": "אברהם-יוסף",
+			"lastName": "סעדיה",
+			"religion": "תימן",
+			"age": "4 ח",
+			"notes": "הועבר למשטרת ישראל",
+			"caseNum": "נ/18"
+		},
+		"row-24": {
+			"num": "25",
+			"name": "שלום",
+			"fatherName": "דוד",
+			"lastName": "ג'חסי",
+			"religion": "תימן",
+			"age": "1 ש",
+			"notes": "הועבר למשטרת ישראל",
+			"caseNum": "נ/30"
+		},
+		"row-25": {
+			"num": "26",
+			"name": "יוסף",
+			"fatherName": "דוד",
+			"lastName": "ג'חסי",
+			"religion": "תימן",
+			"age": "1 ש",
+			"notes": "הועבר למשטרת ישראל",
+			"caseNum": "נ/31"
+		},
+		"row-26": {
+			"num": "27",
+			"name": "ציון",
+			"fatherName": "יחיא",
+			"lastName": "מוריסי",
+			"religion": "תימן",
+			"age": "15 יום",
+			"notes": "הועבר למשטרת ישראל",
+			"caseNum": "נ/32"
+		},
+		"row-27": {
+			"num": "28",
+			"name": "שמעה",
+			"fatherName": "סלם",
+			"lastName": "סעדיה",
+			"religion": "תימן",
+			"age": "5 ח",
+			"notes": "הועבר למשטרת ישראל",
+			"caseNum": "נ/33"
+		},
+		"row-28": {
+			"num": "29",
+			"name": "קמר",
+			"fatherName": "שלמה-אברהם",
+			"lastName": "סורה",
+			"religion": "תימן",
+			"age": "2 ש",
+			"notes": "נתקבל ממשטרת ישראל",
+			"caseNum": "נ/34"
+		},
+		"row-29": {
+			"num": "30",
+			"name": "שדרה",
+			"fatherName": "שלום",
+			"lastName": "שייחי",
+			"religion": "תימן",
+			"age": "4 ח",
+			"notes": "נתקבל ממשטרת ישראל",
+			"caseNum": "נ/35"
+		},
+		"row-30": {
+			"num": "31",
+			"name": "אברהם",
+			"fatherName": "סעדיה",
+			"lastName": "תנעמי",
+			"religion": "תימן",
+			"age": "18 ח",
+			"notes": "נתקבל ממשטרת ישראל",
+			"caseNum": "נ/36"
+		},
+		"row-31": {
+			"num": "32",
+			"name": "ציונה",
+			"fatherName": "סעיד-סאלם",
+			"lastName": "יוסף",
+			"religion": "תימן",
+			"age": "15 ח",
+			"notes": "נתקבל ממשטרת ישראל",
+			"caseNum": "נ/37"
+		},
+		"row-32": {
+			"num": "33",
+			"name": "יעקב",
+			"fatherName": "סעיד",
+			"lastName": "מדהלה",
+			"religion": "תימן",
+			"age": "10 ח",
+			"notes": "נתקבל ממשטרת ישראל",
+			"caseNum": "נ/38"
+		},
+		"row-33": {
+			"num": "34",
+			"name": "חנה",
+			"fatherName": "נחום",
+			"lastName": "חלי",
+			"religion": "עירק",
+			"age": "19 ש",
+			"notes": "נתקבל ממשטרת ישראל",
+			"caseNum": "נ/39"
+		},
+		"row-34": {
+			"num": "35",
+			"name": "מנחם",
+			"fatherName": "סעיד",
+			"lastName": "מליחי",
+			"religion": "תימן",
+			"age": "2 ח",
+			"notes": "",
+			"caseNum": "נ/40"
+		},
+		"row-35": {
+			"num": "36",
+			"name": "יחיא",
+			"fatherName": "יחיא",
+			"lastName": "לוי",
+			"religion": "תימן",
+			"age": "7 ח",
+			"notes": "",
+			"caseNum": "נ/41"
+		},
+		"row-36": {
+			"num": "37",
+			"name": "נעמה",
+			"fatherName": "אהרון",
+			"lastName": "כהן-מג'אר",
+			"religion": "תימן",
+			"age": "8 ח",
+			"notes": "",
+			"caseNum": "נ/42"
+		},
+		"row-37": {
+			"num": "38",
+			"name": "חיים",
+			"fatherName": "סעיד",
+			"lastName": "ג'מל-גיאת",
+			"religion": "תימן",
+			"age": "1 ש",
+			"notes": "",
+			"caseNum": "נ/43"
+		},
+		"row-38": {
+			"num": "39",
+			"name": "שמאי",
+			"fatherName": "יחיא",
+			"lastName": "עמר",
+			"religion": "תימן",
+			"age": "18 ח",
+			"notes": "",
+			"caseNum": "נ/44"
+		},
+		"row-39": {
+			"num": "40",
+			"name": "סלם",
+			"fatherName": "יחיא",
+			"lastName": "גרמה",
+			"religion": "תימן",
+			"age": "5 ש",
+			"notes": "",
+			"caseNum": "נ/47"
+		},
+		"row-40": {
+			"num": "41",
+			"name": "חיים",
+			"fatherName": "סלם",
+			"lastName": "מנצורה",
+			"religion": "תימן",
+			"age": "6 ח",
+			"notes": "",
+			"caseNum": "נ/48"
+		},
+		"row-41": {
+			"num": "42",
+			"name": "זוהרה",
+			"fatherName": "יוסף",
+			"lastName": "יאוה",
+			"religion": "תימן",
+			"age": "3 ש",
+			"notes": "",
+			"caseNum": "נ/49"
+		},
+		"row-42": {
+			"num": "43",
+			"name": "סלם",
+			"fatherName": "סלם",
+			"lastName": "מג'ער",
+			"religion": "תימן",
+			"age": "18 ח",
+			"notes": "",
+			"caseNum": "נ/51"
+		},
+		"row-43": {
+			"num": "44",
+			"name": "סעדה",
+			"fatherName": "אדיב",
+			"lastName": "ארעג",
+			"religion": "תימן",
+			"age": "18 ח",
+			"notes": "",
+			"caseNum": "נ/52"
+		},
+		"row-44": {
+			"num": "45",
+			"name": "סלם",
+			"fatherName": "יהודה",
+			"lastName": "אועד",
+			"religion": "תימן",
+			"age": "6 ש",
+			"notes": "",
+			"caseNum": "נ/53"
+		},
+		"row-45": {
+			"num": "46",
+			"name": "רצון",
+			"fatherName": "יחיא",
+			"lastName": "גוזי",
+			"religion": "תימן",
+			"age": "3.5 ח",
+			"notes": "",
+			"caseNum": "נ/54"
+		},
+		"row-46": {
+			"num": "47",
+			"name": "נעמה",
+			"fatherName": "דוד",
+			"lastName": "יחיא",
+			"religion": "תימן",
+			"age": "4 ש",
+			"notes": "",
+			"caseNum": "נ/55"
+		},
+		"row-47": {
+			"num": "48",
+			"name": "זוהרה",
+			"fatherName": "מאיר-דוד",
+			"lastName": "מנצור",
+			"religion": "תימן",
+			"age": "7 ח",
+			"notes": "",
+			"caseNum": "נ/56"
+		},
+		"row-48": {
+			"num": "49",
+			"name": "זוהרה",
+			"fatherName": "עוואד",
+			"lastName": "כתר",
+			"religion": "תימן",
+			"age": "8 ח",
+			"notes": "",
+			"caseNum": "נ/57"
+		},
+		"row-49": {
+			"num": "50",
+			"name": "יוסף",
+			"fatherName": "סלם",
+			"lastName": "זרף",
+			"religion": "תימן",
+			"age": "1 ש",
+			"notes": "",
+			"caseNum": "נ/59"
+		},
+		"row-50": {
+			"num": "51",
+			"name": "שושנה",
+			"fatherName": "יחיא-סלם",
+			"lastName": "נג'ר",
+			"religion": "תימן",
+			"age": "2 ח",
+			"notes": "",
+			"caseNum": "נ/60"
+		},
+		"row-51": {
+			"num": "52",
+			"name": "ידידה",
+			"fatherName": "חיים",
+			"lastName": "קרואה",
+			"religion": "תימן",
+			"age": "9 ח",
+			"notes": "",
+			"caseNum": "נ/61"
+		},
+		"row-52": {
+			"num": "53",
+			"name": "ציונה",
+			"fatherName": "אברהם",
+			"lastName": "חוברה",
+			"religion": "תימן",
+			"age": "1 ש",
+			"notes": "",
+			"caseNum": "נ/62"
+		},
+		"row-53": {
+			"num": "54",
+			"name": "חממה",
+			"fatherName": "סלימן-מחפוד",
+			"lastName": "חדד",
+			"religion": "תימן",
+			"age": "3 ח",
+			"notes": "",
+			"caseNum": "נ/63"
+		},
+		"row-54": {
+			"num": "55",
+			"name": "אורה",
+			"fatherName": "דוד",
+			"lastName": "עושרי",
+			"religion": "תימן",
+			"age": "2 ח",
+			"notes": "",
+			"caseNum": "נ/64"
+		},
+		"row-55": {
+			"num": "56",
+			"name": "צלח",
+			"fatherName": "סלם",
+			"lastName": "אהרון",
+			"religion": "תימן",
+			"age": "2 ש",
+			"notes": "",
+			"caseNum": "נ/65"
+		},
+		"row-56": {
+			"num": "57",
+			"name": "צדקה",
+			"fatherName": "מחפוד",
+			"lastName": "גרופי",
+			"religion": "תימן",
+			"age": "8 ש",
+			"notes": "",
+			"caseNum": "נ/66"
+		},
+		"row-57": {
+			"num": "58",
+			"name": "יוכבד",
+			"fatherName": "דוד",
+			"lastName": "חג'בי",
+			"religion": "תימן",
+			"age": "2 ח",
+			"notes": "",
+			"caseNum": "נ/67"
+		},
+		"row-58": {
+			"num": "59",
+			"name": "שמעון",
+			"fatherName": "סלימן",
+			"lastName": "חדד",
+			"religion": "תימן",
+			"age": "2 ש",
+			"notes": "",
+			"caseNum": "נ/68"
+		},
+		"row-59": {
+			"num": "60",
+			"name": "-",
+			"fatherName": "יחיא",
+			"lastName": "עומיסי",
+			"religion": "תימן",
+			"age": "1 יום",
+			"notes": "",
+			"caseNum": "נ/69"
+		},
+		"row-60": {
+			"num": "61",
+			"name": "אברהם",
+			"fatherName": "דוד",
+			"lastName": "סאלם",
+			"religion": "תימן",
+			"age": "10 ח",
+			"notes": "",
+			"caseNum": "נ/71"
+		},
+		"row-61": {
+			"num": "62",
+			"name": "ציון",
+			"fatherName": "יעיש",
+			"lastName": "נחום",
+			"religion": "תימן",
+			"age": "6 יום",
+			"notes": "",
+			"caseNum": "נ/73"
+		},
+		"row-62": {
+			"num": "63",
+			"name": "נעמי",
+			"fatherName": "אהרון",
+			"lastName": "טיירי",
+			"religion": "תימן",
+			"age": "4 ש",
+			"notes": "",
+			"caseNum": "נ/74"
+		},
+		"row-63": {
+			"num": "64",
+			"name": "מרים",
+			"fatherName": "דוד",
+			"lastName": "שוקר",
+			"religion": "תימן",
+			"age": "18 ש",
+			"notes": "",
+			"caseNum": "נ/75"
+		},
+		"row-64": {
+			"num": "65",
+			"name": "הרצל",
+			"fatherName": "אהרון",
+			"lastName": "אהרוני",
+			"religion": "עירק",
+			"age": "10 ח",
+			"notes": "",
+			"caseNum": "נ/76"
+		},
+		"row-65": {
+			"num": "66",
+			"name": "רחל",
+			"fatherName": "ציון",
+			"lastName": "פרג'",
+			"religion": "טריפולי",
+			"age": "15 יום",
+			"notes": "",
+			"caseNum": "נ/77"
+		},
+		"row-66": {
+			"num": "67",
+			"name": "אברהם",
+			"fatherName": "סולימן",
+			"lastName": "חדד",
+			"religion": "תימן",
+			"age": "18 ח",
+			"notes": "",
+			"caseNum": "נ/78"
+		},
+		"row-67": {
+			"num": "68",
+			"name": "אבנר",
+			"fatherName": "יחיא",
+			"lastName": "חעיזי",
+			"religion": "תימן",
+			"age": "5 ח",
+			"notes": "",
+			"caseNum": "נ/80"
+		},
+		"row-68": {
+			"num": "69",
+			"name": "מנחם",
+			"fatherName": "דוד",
+			"lastName": "עוזרי",
+			"religion": "תימן",
+			"age": "5 ח",
+			"notes": "",
+			"caseNum": "נ/81"
+		},
+		"row-69": {
+			"num": "70",
+			"name": "דוד",
+			"fatherName": "אברהם",
+			"lastName": "סניאני",
+			"religion": "תימן",
+			"age": "1 ח",
+			"notes": "",
+			"caseNum": "נ/82"
+		},
+		"row-70": {
+			"num": "71",
+			"name": "יהודה",
+			"fatherName": "אברהם",
+			"lastName": "סניאני",
+			"religion": "תימן",
+			"age": "5 ש",
+			"notes": "",
+			"caseNum": "נ/83"
+		},
+		"row-71": {
+			"num": "72",
+			"name": "סלם",
+			"fatherName": "סלם",
+			"lastName": "ג'מילי",
+			"religion": "תימן",
+			"age": "2 ש",
+			"notes": "",
+			"caseNum": "נ/84"
+		},
+		"row-72": {
+			"num": "73",
+			"name": "שולמית",
+			"fatherName": "יחיא",
+			"lastName": "שרעבי",
+			"religion": "תימן",
+			"age": "7 ח",
+			"notes": "",
+			"caseNum": "נ/85"
+		},
+		"row-73": {
+			"num": "74",
+			"name": "משה",
+			"fatherName": "שלום",
+			"lastName": "משרקי",
+			"religion": "תימן",
+			"age": "5 ח",
+			"notes": "",
+			"caseNum": "נ/86"
+		},
+		"row-74": {
+			"num": "75",
+			"name": "שמעון",
+			"fatherName": "סלימן",
+			"lastName": "דהרי",
+			"religion": "תימן",
+			"age": "1 יום",
+			"notes": "",
+			"caseNum": "נ/87"
+		},
+		"row-75": {
+			"num": "76",
+			"name": "ציונה",
+			"fatherName": "שלום",
+			"lastName": "משרקי",
+			"religion": "תימן",
+			"age": "5 ח",
+			"notes": "",
+			"caseNum": "נ/89"
+		},
+		"row-76": {
+			"num": "77",
+			"name": "נפל",
+			"fatherName": "מוסה",
+			"lastName": "סיאני",
+			"religion": "תימן",
+			"age": "-",
+			"notes": "",
+			"caseNum": "נ/90"
+		},
+		"row-77": {
+			"num": "78",
+			"name": "ציון",
+			"fatherName": "סלם",
+			"lastName": "באסל",
+			"religion": "תימן",
+			"age": "4 יום",
+			"notes": "",
+			"caseNum": "נ/91"
+		},
+		"row-78": {
+			"num": "79",
+			"name": "רומיה",
+			"fatherName": "יעקב",
+			"lastName": "ינעי",
+			"religion": "תימן",
+			"age": "3 ח",
+			"notes": "",
+			"caseNum": "נ/93"
+		},
+		"row-79": {
+			"num": "80",
+			"name": "רחל",
+			"fatherName": "מנחם",
+			"lastName": "סעדי",
+			"religion": "תימן",
+			"age": "20 ש",
+			"notes": "",
+			"caseNum": "נ/95"
+		},
+		"row-80": {
+			"num": "81",
+			"name": "צביה",
+			"fatherName": "יחיא",
+			"lastName": "הינדי",
+			"religion": "תימן",
+			"age": "1 ש",
+			"notes": "",
+			"caseNum": "נ/96"
+		},
+		"row-81": {
+			"num": "82",
+			"name": "משה",
+			"fatherName": "יהודה",
+			"lastName": "עומיסי",
+			"religion": "תימן",
+			"age": "10 ח",
+			"notes": "",
+			"caseNum": "נ/97"
+		},
+		"row-82": {
+			"num": "83",
+			"name": "יחיעם",
+			"fatherName": "סלם",
+			"lastName": "אפגין",
+			"religion": "תימן",
+			"age": "3 ח",
+			"notes": "",
+			"caseNum": "נ/98"
+		},
+		"row-83": {
+			"num": "84",
+			"name": "תורכיה",
+			"fatherName": "חיים",
+			"lastName": "דאר",
+			"religion": "תימן",
+			"age": "2 ש",
+			"notes": "",
+			"caseNum": "נ/99"
+		},
+		"row-84": {
+			"num": "85",
+			"name": "יחיא",
+			"fatherName": "אהרון",
+			"lastName": "כורש",
+			"religion": "תימן",
+			"age": "4 ח",
+			"notes": "",
+			"caseNum": "נ/100"
+		},
+		"row-85": {
+			"num": "86",
+			"name": "לאה",
+			"fatherName": "שמואל",
+			"lastName": "סלם",
+			"religion": "תימן",
+			"age": "3.5 ש",
+			"notes": "",
+			"caseNum": "נ/101"
+		},
+		"row-86": {
+			"num": "87",
+			"name": "שמעה",
+			"fatherName": "אברהם",
+			"lastName": "גברה",
+			"religion": "תימן",
+			"age": "2 ש",
+			"notes": "",
+			"caseNum": "נ/102"
+		},
+		"row-87": {
+			"num": "88",
+			"name": "מאיר",
+			"fatherName": "שאול",
+			"lastName": "מחנה",
+			"religion": "תימן",
+			"age": "8 ח",
+			"notes": "",
+			"caseNum": "נ/104"
+		},
+		"row-88": {
+			"num": "89",
+			"name": "אברהם",
+			"fatherName": "יחיא",
+			"lastName": "סיאני",
+			"religion": "תימן",
+			"age": "6 ש",
+			"notes": "",
+			"caseNum": "נ/105"
+		},
+		"row-89": {
+			"num": "90",
+			"name": "ציון",
+			"fatherName": "יחיא",
+			"lastName": "גהרי",
+			"religion": "תימן",
+			"age": "21 יום",
+			"notes": "",
+			"caseNum": "נ/107"
+		},
+		"row-90": {
+			"num": "91",
+			"name": "שמעון",
+			"fatherName": "חיים",
+			"lastName": "זגור",
+			"religion": "תימן",
+			"age": "3 ח",
+			"notes": "",
+			"caseNum": "נ/108"
+		},
+		"row-91": {
+			"num": "92",
+			"name": "דני",
+			"fatherName": "אברהם",
+			"lastName": "שוקר",
+			"religion": "תימן",
+			"age": "7 ח",
+			"notes": "",
+			"caseNum": "נ/109"
+		},
+		"row-92": {
+			"num": "93",
+			"name": "ציון",
+			"fatherName": "סלם",
+			"lastName": "צלח",
+			"religion": "תימן",
+			"age": "7 יום",
+			"notes": "",
+			"caseNum": "נ/110"
+		},
+		"row-93": {
+			"num": "94",
+			"name": "זוהרה",
+			"fatherName": "יחיא",
+			"lastName": "צברי",
+			"religion": "תימן",
+			"age": "13 ש",
+			"notes": "",
+			"caseNum": "נ/111"
+		},
+		"row-94": {
+			"num": "95",
+			"name": "שמעה",
+			"fatherName": "בנימין",
+			"lastName": "ריזיקיאן",
+			"religion": "תימן",
+			"age": "2 ש",
+			"notes": "",
+			"caseNum": "נ/112"
+		},
+		"row-95": {
+			"num": "96",
+			"name": "יוסף",
+			"fatherName": "סעיד",
+			"lastName": "חזי",
+			"religion": "תימן",
+			"age": "4 ח",
+			"notes": "",
+			"caseNum": "נ/113"
+		},
+		"row-96": {
+			"num": "97",
+			"name": "ציון",
+			"fatherName": "יחיא",
+			"lastName": "חבני",
+			"religion": "תימן",
+			"age": "3 שבוע",
+			"notes": "",
+			"caseNum": "נ/114"
+		},
+		"row-97": {
+			"num": "98",
+			"name": "דליה",
+			"fatherName": "יחיאל",
+			"lastName": "צדוק",
+			"religion": "תימן",
+			"age": "1 ח",
+			"notes": "",
+			"caseNum": "נ/115"
+		},
+		"row-98": {
+			"num": "99",
+			"name": "צביה",
+			"fatherName": "יחיא",
+			"lastName": "יהודה",
+			"religion": "תימן",
+			"age": "2 ש",
+			"notes": "",
+			"caseNum": "נ/116"
+		},
+		"row-99": {
+			"num": "100",
+			"name": "אסתר",
+			"fatherName": "יהודה",
+			"lastName": "סיאני",
+			"religion": "תימן",
+			"age": "1 ש",
+			"notes": "",
+			"caseNum": "נ/117"
+		},
+		"row-100": {
+			"num": "101",
+			"name": "רומיה",
+			"fatherName": "יחיא",
+			"lastName": "רייבי",
+			"religion": "תימן",
+			"age": "4 ח",
+			"notes": "",
+			"caseNum": "נ/118"
+		},
+		"row-101": {
+			"num": "102",
+			"name": "שלום",
+			"fatherName": "סלם",
+			"lastName": "כועי",
+			"religion": "תימן",
+			"age": "10 ח",
+			"notes": "",
+			"caseNum": "נ/119"
+		},
+		"row-102": {
+			"num": "103",
+			"name": "יוסף",
+			"fatherName": "בדרה",
+			"lastName": "ג'סי",
+			"religion": "תימן",
+			"age": "18 יום",
+			"notes": "",
+			"caseNum": "נ/120"
+		},
+		"row-103": {
+			"num": "104",
+			"name": "מלכה",
+			"fatherName": "יהודה",
+			"lastName": "חסן",
+			"religion": "תימן",
+			"age": "2 ש",
+			"notes": "",
+			"caseNum": "נ/121"
+		},
+		"row-104": {
+			"num": "105",
+			"name": "-",
+			"fatherName": "שלם",
+			"lastName": "מליחי",
+			"religion": "תימן",
+			"age": "נפל",
+			"notes": "",
+			"caseNum": "נ/124"
+		},
+		"row-105": {
+			"num": "106",
+			"name": "רחמים",
+			"fatherName": "יחיא",
+			"lastName": "חרזי",
+			"religion": "תימן",
+			"age": "2 ש",
+			"notes": "",
+			"caseNum": "נ/125"
+		},
+		"row-106": {
+			"num": "107",
+			"name": "-",
+			"fatherName": "סלח",
+			"lastName": "מדמון",
+			"religion": "תימן",
+			"age": "נפל",
+			"notes": "",
+			"caseNum": "נ/126"
+		},
+		"row-107": {
+			"num": "108",
+			"name": "יפה",
+			"fatherName": "יוסף",
+			"lastName": "טביב",
+			"religion": "תימן",
+			"age": "3 ח",
+			"notes": "",
+			"caseNum": "נ/127"
+		},
+		"row-108": {
+			"num": "109",
+			"name": "3 נפלים",
+			"fatherName": "אהרון",
+			"lastName": "דנון",
+			"religion": "תימן",
+			"age": "-",
+			"notes": "שלישיה שנפטרה מיד לאחר הלידה ונקברה בקבר אחד",
+			"caseNum": "נ/106"
+		},
+		"row-109": {
+			"num": "110",
+			"name": "ניצה",
+			"fatherName": "יוסף",
+			"lastName": "טביב",
+			"religion": "תימן",
+			"age": "6 ח",
+			"notes": "",
+			"caseNum": "נ/128"
+		},
+		"row-110": {
+			"num": "111",
+			"name": "ברכה",
+			"fatherName": "עוואד",
+			"lastName": "מנחם",
+			"religion": "תימן",
+			"age": "8 יום",
+			"notes": "",
+			"caseNum": "נ/129"
+		},
+		"row-111": {
+			"num": "112",
+			"name": "חנה",
+			"fatherName": "אשר",
+			"lastName": "כראזי",
+			"religion": "פרס",
+			"age": "6 ח",
+			"notes": "",
+			"caseNum": "נ/130"
+		},
+		"row-112": {
+			"num": "113",
+			"name": "איבלין",
+			"fatherName": "עזרא",
+			"lastName": "שמש",
+			"religion": "עירק",
+			"age": "7 ח",
+			"notes": "",
+			"caseNum": "נ/131"
+		},
+		"row-113": {
+			"num": "114",
+			"name": "מרים",
+			"fatherName": "שלמה",
+			"lastName": "עדני",
+			"religion": "תימן",
+			"age": "10 ח",
+			"notes": "",
+			"caseNum": "נ/132"
+		},
+		"row-114": {
+			"num": "115",
+			"name": "מזל",
+			"fatherName": "יחיא",
+			"lastName": "גמל",
+			"religion": "תימן",
+			"age": "66 יום",
+			"notes": "",
+			"caseNum": "נ/134"
+		},
+		"row-115": {
+			"num": "116",
+			"name": "ציון",
+			"fatherName": "נסים",
+			"lastName": "הרזי",
+			"religion": "תימן",
+			"age": "3 ח",
+			"notes": "",
+			"caseNum": "נ/135"
+		},
+		"row-116": {
+			"num": "117",
+			"name": "שושנה",
+			"fatherName": "יחיא",
+			"lastName": "מדמוני",
+			"religion": "תימן",
+			"age": "5 ח",
+			"notes": "",
+			"caseNum": "נ/136"
+		},
+		"row-117": {
+			"num": "118",
+			"name": "עזרא",
+			"fatherName": "אהרון",
+			"lastName": "זודי",
+			"religion": "תימן",
+			"age": "2 ח",
+			"notes": "",
+			"caseNum": "נ/137"
+		},
+		"row-118": {
+			"num": "119",
+			"name": "ציון",
+			"fatherName": "יחיא",
+			"lastName": "נג'ימה",
+			"religion": "תימן",
+			"age": "1 ח",
+			"notes": "",
+			"caseNum": "נ/138"
+		},
+		"row-119": {
+			"num": "120",
+			"name": "שמעה",
+			"fatherName": "סלם",
+			"lastName": "אבדר",
+			"religion": "תימן",
+			"age": "18 ח",
+			"notes": "",
+			"caseNum": "נ/139"
+		},
+		"row-120": {
+			"num": "121",
+			"name": "ציון",
+			"fatherName": "חיים",
+			"lastName": "כהן",
+			"religion": "תימן",
+			"age": "1 ש",
+			"notes": "",
+			"caseNum": "נ/140"
+		},
+		"row-121": {
+			"num": "122",
+			"name": "טוב",
+			"fatherName": "יוסף",
+			"lastName": "אברהם",
+			"religion": "תימן",
+			"age": "1 שבוע",
+			"notes": "",
+			"caseNum": "נ/142"
+		},
+		"row-122": {
+			"num": "123",
+			"name": "כדיעה",
+			"fatherName": "אשת יוסף",
+			"lastName": "אברהם",
+			"religion": "תימן",
+			"age": "20 ש",
+			"notes": "",
+			"caseNum": "נ/359"
+		},
+		"row-123": {
+			"num": "124",
+			"name": "ציונה",
+			"fatherName": "סלם",
+			"lastName": "גיאת",
+			"religion": "תימן",
+			"age": "18 יום",
+			"notes": "",
+			"caseNum": "נ/143"
+		},
+		"row-124": {
+			"num": "125",
+			"name": "אסתר",
+			"fatherName": "יחיא",
+			"lastName": "מנג'ם",
+			"religion": "תימן",
+			"age": "1 ח",
+			"notes": "",
+			"caseNum": "נ/144"
+		},
+		"row-125": {
+			"num": "126",
+			"name": "אברהם",
+			"fatherName": "סעד",
+			"lastName": "משרקי",
+			"religion": "תימן",
+			"age": "4 ח",
+			"notes": "",
+			"caseNum": "נ/145"
+		},
+		"row-126": {
+			"num": "127",
+			"name": "יחיא",
+			"fatherName": "יחיא",
+			"lastName": "מעודה",
+			"religion": "תימן",
+			"age": "7 ח",
+			"notes": "",
+			"caseNum": "נ/146"
+		},
+		"row-127": {
+			"num": "128",
+			"name": "צביה",
+			"fatherName": "משה",
+			"lastName": "גרמה",
+			"religion": "תימן",
+			"age": "1 ח",
+			"notes": "",
+			"caseNum": "נ/147"
+		},
+		"row-128": {
+			"num": "129",
+			"name": "הרצל",
+			"fatherName": "משה",
+			"lastName": "חוקימה",
+			"religion": "אפגניסטן",
+			"age": "9 ח",
+			"notes": "",
+			"caseNum": "נ/148"
+		},
+		"row-129": {
+			"num": "130",
+			"name": "יחיא",
+			"fatherName": "סלם",
+			"lastName": "סמון",
+			"religion": "תימן",
+			"age": "4 ש",
+			"notes": "",
+			"caseNum": "נ/149"
+		},
+		"row-130": {
+			"num": "131",
+			"name": "שמעון",
+			"fatherName": "דמה",
+			"lastName": "נדף",
+			"religion": "תימן",
+			"age": "14 ח",
+			"notes": "",
+			"caseNum": "נ/150"
+		},
+		"row-131": {
+			"num": "132",
+			"name": "אברהם",
+			"fatherName": "סולימן",
+			"lastName": "יעקב",
+			"religion": "תימן",
+			"age": "1 ש",
+			"notes": "",
+			"caseNum": "נ/151"
+		},
+		"row-132": {
+			"num": "133",
+			"name": "שמעון",
+			"fatherName": "סולימן",
+			"lastName": "עטרי",
+			"religion": "תימן",
+			"age": "29 יום",
+			"notes": "",
+			"caseNum": "נ/152"
+		},
+		"row-133": {
+			"num": "134",
+			"name": "סלם",
+			"fatherName": "יחיא",
+			"lastName": "קומימי",
+			"religion": "תימן",
+			"age": "2 ש",
+			"notes": "",
+			"caseNum": "נ/154"
+		},
+		"row-134": {
+			"num": "135",
+			"name": "-",
+			"fatherName": "סלם",
+			"lastName": "סמרי",
+			"religion": "תימן",
+			"age": "נפל",
+			"notes": "",
+			"caseNum": "נ/155"
+		},
+		"row-135": {
+			"num": "136",
+			"name": "אביבה",
+			"fatherName": "מאיר",
+			"lastName": "שורר",
+			"religion": "תימן",
+			"age": "10 ח",
+			"notes": "",
+			"caseNum": "נ/156"
+		},
+		"row-136": {
+			"num": "137",
+			"name": "-",
+			"fatherName": "סולימן",
+			"lastName": "מעודה",
+			"religion": "תימן",
+			"age": "נפל",
+			"notes": "",
+			"caseNum": "נ/157"
+		},
+		"row-137": {
+			"num": "138",
+			"name": "ציונה",
+			"fatherName": "יוסף",
+			"lastName": "בלס",
+			"religion": "תימן",
+			"age": "2.5 ח",
+			"notes": "",
+			"caseNum": "נ/158"
+		},
+		"row-138": {
+			"num": "139",
+			"name": "סעיד",
+			"fatherName": "סלימן",
+			"lastName": "נג'אר",
+			"religion": "תימן",
+			"age": "2-3 ש",
+			"notes": "",
+			"caseNum": "נ/159"
+		},
+		"row-139": {
+			"num": "140",
+			"name": "מסלם",
+			"fatherName": "יחיא",
+			"lastName": "מדר",
+			"religion": "תימן",
+			"age": "2 ח",
+			"notes": "",
+			"caseNum": "נ/160"
+		},
+		"row-140": {
+			"num": "141",
+			"name": "שמואל",
+			"fatherName": "יוסף",
+			"lastName": "חמדי",
+			"religion": "תימן",
+			"age": "2 ש",
+			"notes": "",
+			"caseNum": "נ/161"
+		},
+		"row-141": {
+			"num": "142",
+			"name": "רחל",
+			"fatherName": "יוסף",
+			"lastName": "מינס",
+			"religion": "תימן",
+			"age": "נפל",
+			"notes": "",
+			"caseNum": "נ/162"
+		},
+		"row-142": {
+			"num": "143",
+			"name": "צבי",
+			"fatherName": "יחיא",
+			"lastName": "משה",
+			"religion": "תימן",
+			"age": "1.5 ח",
+			"notes": "",
+			"caseNum": "נ/164"
+		},
+		"row-143": {
+			"num": "144",
+			"name": "ציונה",
+			"fatherName": "יחיא",
+			"lastName": "בוסי",
+			"religion": "עירק",
+			"age": "נפל",
+			"notes": "",
+			"caseNum": "נ/166"
+		},
+		"row-144": {
+			"num": "145",
+			"name": "-",
+			"fatherName": "יחיא",
+			"lastName": "בוסי",
+			"religion": "תימן",
+			"age": "נפל",
+			"notes": "",
+			"caseNum": "נ/166"
+		},
+		"row-145": {
+			"num": "146",
+			"name": "יוסף",
+			"fatherName": "יחיא",
+			"lastName": "עוקבי",
+			"religion": "תימן",
+			"age": "3 ח",
+			"notes": "",
+			"caseNum": "נ/167"
+		},
+		"row-146": {
+			"num": "147",
+			"name": "ציון",
+			"fatherName": "סלם",
+			"lastName": "קרחה",
+			"religion": "תימן",
+			"age": "1 ח",
+			"notes": "",
+			"caseNum": "נ/168"
+		},
+		"row-147": {
+			"num": "148",
+			"name": "נדרה",
+			"fatherName": "יהודה",
+			"lastName": "לוי",
+			"religion": "תימן",
+			"age": "2 ש",
+			"notes": "",
+			"caseNum": "נ/169"
+		},
+		"row-148": {
+			"num": "149",
+			"name": "דניאל",
+			"fatherName": "יחיא",
+			"lastName": "יונה",
+			"religion": "תימן",
+			"age": "15 יום",
+			"notes": "",
+			"caseNum": "נ/170"
+		},
+		"row-149": {
+			"num": "150",
+			"name": "סלם",
+			"fatherName": "יחיא",
+			"lastName": "חלא",
+			"religion": "תימן",
+			"age": "2 ש",
+			"notes": "",
+			"caseNum": "נ/171"
+		},
+		"row-150": {
+			"num": "151",
+			"name": "גוריון",
+			"fatherName": "חיים",
+			"lastName": "ג'רפי",
+			"religion": "תימן",
+			"age": "3.5 ח",
+			"notes": "",
+			"caseNum": "נ/172"
+		},
+		"row-151": {
+			"num": "152",
+			"name": "דוד",
+			"fatherName": "חסן",
+			"lastName": "שרעבי",
+			"religion": "תימן",
+			"age": "2.5 ש",
+			"notes": "",
+			"caseNum": "נ/173"
+		},
+		"row-152": {
+			"num": "153",
+			"name": "קומש",
+			"fatherName": "זכריה",
+			"lastName": "מג'ר",
+			"religion": "תימן",
+			"age": "5 ש",
+			"notes": "",
+			"caseNum": "נ/174"
+		},
+		"row-153": {
+			"num": "154",
+			"name": "דינה",
+			"fatherName": "סולימן",
+			"lastName": "מועלם",
+			"religion": "תימן",
+			"age": "15 ח",
+			"notes": "",
+			"caseNum": "נ/175"
+		},
+		"row-154": {
+			"num": "155",
+			"name": "שלמה",
+			"fatherName": "יחיא",
+			"lastName": "גורש",
+			"religion": "תימן",
+			"age": "8 ח",
+			"notes": "",
+			"caseNum": "נ/176"
+		},
+		"row-155": {
+			"num": "156",
+			"name": "מזל",
+			"fatherName": "יחיא",
+			"lastName": "קראוני",
+			"religion": "תימן",
+			"age": "14 יום",
+			"notes": "",
+			"caseNum": "נ/177"
+		},
+		"row-156": {
+			"num": "157",
+			"name": "שושנה",
+			"fatherName": "שלמה",
+			"lastName": "מרחבי",
+			"religion": "תימן",
+			"age": "1 ש",
+			"notes": "",
+			"caseNum": "נ/178"
+		},
+		"row-157": {
+			"num": "158",
+			"name": "מחפוד",
+			"fatherName": "שלום",
+			"lastName": "כהן",
+			"religion": "תימן",
+			"age": "4 ח",
+			"notes": "",
+			"caseNum": "נ/179"
+		},
+		"row-158": {
+			"num": "159",
+			"name": "סעדה",
+			"fatherName": "אברהם",
+			"lastName": "ישראל",
+			"religion": "תימן",
+			"age": "4 ח",
+			"notes": "",
+			"caseNum": "נ/180"
+		},
+		"row-159": {
+			"num": "160",
+			"name": "זכריה",
+			"fatherName": "ניסים",
+			"lastName": "פדאל",
+			"religion": "תימן",
+			"age": "2 ח",
+			"notes": "",
+			"caseNum": "נ/182"
+		},
+		"row-160": {
+			"num": "161",
+			"name": "ישראל",
+			"fatherName": "יחיא",
+			"lastName": "חג'בי",
+			"religion": "תימן",
+			"age": "11 ח",
+			"notes": "",
+			"caseNum": "נ/183"
+		},
+		"row-161": {
+			"num": "162",
+			"name": "זכריה",
+			"fatherName": "משה",
+			"lastName": "אברהם",
+			"religion": "תימן",
+			"age": "3 שבוע",
+			"notes": "",
+			"caseNum": "נ/184"
+		},
+		"row-162": {
+			"num": "163",
+			"name": "צביה",
+			"fatherName": "סלם",
+			"lastName": "ג'רופי",
+			"religion": "תימן",
+			"age": "3.5 ש",
+			"notes": "",
+			"caseNum": "נ/185"
+		},
+		"row-163": {
+			"num": "164",
+			"name": "ציונה",
+			"fatherName": "דוד",
+			"lastName": "הינדי",
+			"religion": "תימן",
+			"age": "18 יום",
+			"notes": "",
+			"caseNum": "נ/187"
+		},
+		"row-164": {
+			"num": "165",
+			"name": "שרה",
+			"fatherName": "סעדיה",
+			"lastName": "חרד",
+			"religion": "תימן",
+			"age": "14 יום",
+			"notes": "",
+			"caseNum": "נ/188"
+		},
+		"row-165": {
+			"num": "166",
+			"name": "בנימין",
+			"fatherName": "ראובן",
+			"lastName": "דהרי",
+			"religion": "תימן",
+			"age": "3 ח",
+			"notes": "",
+			"caseNum": "נ/189"
+		},
+		"row-166": {
+			"num": "167",
+			"name": "",
+			"fatherName": "",
+			"lastName": "",
+			"religion": "",
+			"age": "",
+			"notes": "",
+			"caseNum": ""
+		},
+		"row-167": {
+			"num": "168",
+			"name": "",
+			"fatherName": "",
+			"lastName": "",
+			"religion": "",
+			"age": "",
+			"notes": "",
+			"caseNum": ""
+		},
+		"row-168": {
+			"num": "169",
+			"name": "",
+			"fatherName": "",
+			"lastName": "",
+			"religion": "",
+			"age": "",
+			"notes": "",
+			"caseNum": ""
+		},
+		"row-169": {
+			"num": "170",
+			"name": "",
+			"fatherName": "",
+			"lastName": "",
+			"religion": "",
+			"age": "",
+			"notes": "",
+			"caseNum": ""
+		},
+		"row-170": {
+			"num": "171",
+			"name": "",
+			"fatherName": "",
+			"lastName": "",
+			"religion": "",
+			"age": "",
+			"notes": "",
+			"caseNum": ""
+		},
+		"row-171": {
+			"num": "172",
+			"name": "",
+			"fatherName": "",
+			"lastName": "",
+			"religion": "",
+			"age": "",
+			"notes": "",
+			"caseNum": ""
+		},
+		"row-172": {
+			"num": "173",
+			"name": "",
+			"fatherName": "",
+			"lastName": "",
+			"religion": "",
+			"age": "",
+			"notes": "",
+			"caseNum": ""
+		},
+		"row-173": {
+			"num": "174",
+			"name": "",
+			"fatherName": "",
+			"lastName": "",
+			"religion": "",
+			"age": "",
+			"notes": "",
+			"caseNum": ""
+		},
+		"row-174": {
+			"num": "175",
+			"name": "",
+			"fatherName": "",
+			"lastName": "",
+			"religion": "",
+			"age": "",
+			"notes": "",
+			"caseNum": ""
+		},
+		"row-175": {
+			"num": "176",
+			"name": "",
+			"fatherName": "",
+			"lastName": "",
+			"religion": "",
+			"age": "",
+			"notes": "",
+			"caseNum": ""
+		},
+		"row-176": {
+			"num": "177",
+			"name": "",
+			"fatherName": "",
+			"lastName": "",
+			"religion": "",
+			"age": "",
+			"notes": "",
+			"caseNum": ""
+		},
+		"row-177": {
+			"num": "178",
+			"name": "",
+			"fatherName": "",
+			"lastName": "",
+			"religion": "",
+			"age": "",
+			"notes": "",
+			"caseNum": ""
+		},
+		"row-178": {
+			"num": "179",
+			"name": "",
+			"fatherName": "",
+			"lastName": "",
+			"religion": "",
+			"age": "",
+			"notes": "",
+			"caseNum": ""
+		},
+		"row-179": {
+			"num": "180",
+			"name": "",
+			"fatherName": "",
+			"lastName": "",
+			"religion": "",
+			"age": "",
+			"notes": "",
+			"caseNum": ""
+		},
+		"row-180": {
+			"num": "181",
+			"name": "",
+			"fatherName": "",
+			"lastName": "",
+			"religion": "",
+			"age": "",
+			"notes": "",
+			"caseNum": ""
+		},
+		"row-181": {
+			"num": "182",
+			"name": "",
+			"fatherName": "",
+			"lastName": "",
+			"religion": "",
+			"age": "",
+			"notes": "",
+			"caseNum": ""
+		},
+		"row-182": {
+			"num": "183",
+			"name": "",
+			"fatherName": "",
+			"lastName": "",
+			"religion": "",
+			"age": "",
+			"notes": "",
+			"caseNum": ""
+		},
+		"row-183": {
+			"num": "184",
+			"name": "",
+			"fatherName": "",
+			"lastName": "",
+			"religion": "",
+			"age": "",
+			"notes": "",
+			"caseNum": ""
+		},
+		"row-184": {
+			"num": "185",
+			"name": "",
+			"fatherName": "",
+			"lastName": "",
+			"religion": "",
+			"age": "",
+			"notes": "",
+			"caseNum": ""
+		},
+		"row-185": {
+			"num": "186",
+			"name": "",
+			"fatherName": "",
+			"lastName": "",
+			"religion": "",
+			"age": "",
+			"notes": "",
+			"caseNum": ""
+		},
+		"row-186": {
+			"num": "187",
+			"name": "",
+			"fatherName": "",
+			"lastName": "",
+			"religion": "",
+			"age": "",
+			"notes": "",
+			"caseNum": ""
+		},
+		"row-187": {
+			"num": "188",
+			"name": "",
+			"fatherName": "",
+			"lastName": "",
+			"religion": "",
+			"age": "",
+			"notes": "",
+			"caseNum": ""
+		},
+		"row-188": {
+			"num": "189",
+			"name": "",
+			"fatherName": "",
+			"lastName": "",
+			"religion": "",
+			"age": "",
+			"notes": "",
+			"caseNum": ""
+		},
+		"row-189": {
+			"num": "190",
+			"name": "",
+			"fatherName": "",
+			"lastName": "",
+			"religion": "",
+			"age": "",
+			"notes": "",
+			"caseNum": ""
+		},
+		"row-190": {
+			"num": "191",
+			"name": "ברכה",
+			"fatherName": "יעקב",
+			"lastName": "אחרק",
+			"religion": "תימן",
+			"age": "8 ח",
+			"notes": "",
+			"caseNum": "נ/216"
+		},
+		"row-191": {
+			"num": "192",
+			"name": "ציון",
+			"fatherName": "סולימן",
+			"lastName": "דהרי",
+			"religion": "תימן",
+			"age": "3 ח",
+			"notes": "",
+			"caseNum": "נ/217"
+		},
+		"row-192": {
+			"num": "193",
+			"name": "סלמן",
+			"fatherName": "ישראל",
+			"lastName": "דוד",
+			"religion": "תימן",
+			"age": "1 ש",
+			"notes": "",
+			"caseNum": "נ/218"
+		},
+		"row-193": {
+			"num": "194",
+			"name": "ציונה",
+			"fatherName": "סלם",
+			"lastName": "צוברי",
+			"religion": "תימן",
+			"age": "9 ח",
+			"notes": "",
+			"caseNum": "נ/219"
+		},
+		"row-194": {
+			"num": "195",
+			"name": "ציון",
+			"fatherName": "יחיא",
+			"lastName": "חפדי",
+			"religion": "תימן",
+			"age": "2 ח",
+			"notes": "",
+			"caseNum": "נ/220"
+		},
+		"row-195": {
+			"num": "196",
+			"name": "טוב",
+			"fatherName": "צבי",
+			"lastName": "תם",
+			"religion": "תימן",
+			"age": "8 יום",
+			"notes": "",
+			"caseNum": "נ/221"
+		},
+		"row-196": {
+			"num": "197",
+			"name": "הוידה",
+			"fatherName": "יחיא",
+			"lastName": "יחיא",
+			"religion": "תימן",
+			"age": "1.5 ש",
+			"notes": "",
+			"caseNum": "נ/222"
+		},
+		"row-197": {
+			"num": "198",
+			"name": "צפורה",
+			"fatherName": "סלם",
+			"lastName": "מנצור",
+			"religion": "תימן",
+			"age": "4 ח",
+			"notes": "",
+			"caseNum": "נ/223"
+		},
+		"row-198": {
+			"num": "199",
+			"name": "יונה",
+			"fatherName": "סלימן",
+			"lastName": "סרי",
+			"religion": "תימן",
+			"age": "15 יום",
+			"notes": "",
+			"caseNum": "נ/224"
+		},
+		"row-199": {
+			"num": "200",
+			"name": "אהרון",
+			"fatherName": "אהרן",
+			"lastName": "שבאס",
+			"religion": "תימן",
+			"age": "5 ח",
+			"notes": "",
+			"caseNum": "נ/225"
+		},
+		"row-200": {
+			"num": "201",
+			"name": "יחיא",
+			"fatherName": "סעיד",
+			"lastName": "עבדי",
+			"religion": "תימן",
+			"age": "9 ח",
+			"notes": "",
+			"caseNum": "נ/226"
+		},
+		"row-201": {
+			"num": "202",
+			"name": "שמעה",
+			"fatherName": "מוסלם",
+			"lastName": "גדסי",
+			"religion": "תימן",
+			"age": "3 ש",
+			"notes": "",
+			"caseNum": "נ/227"
+		},
+		"row-202": {
+			"num": "203",
+			"name": "מזל",
+			"fatherName": "סלם",
+			"lastName": "דכעני",
+			"religion": "תימן",
+			"age": "6 ח",
+			"notes": "",
+			"caseNum": "נ/228"
+		},
+		"row-203": {
+			"num": "204",
+			"name": "נורית",
+			"fatherName": "חסן",
+			"lastName": "שרעבי",
+			"religion": "תימן",
+			"age": "10 יום",
+			"notes": "",
+			"caseNum": "נ/229"
+		},
+		"row-204": {
+			"num": "205",
+			"name": "אברהם",
+			"fatherName": "חיים",
+			"lastName": "נג'ר",
+			"religion": "תימן",
+			"age": "1 ח",
+			"notes": "",
+			"caseNum": "נ/230"
+		},
+		"row-205": {
+			"num": "206",
+			"name": "זכריה",
+			"fatherName": "משה",
+			"lastName": "חסן",
+			"religion": "תימן",
+			"age": "4 ח",
+			"notes": "",
+			"caseNum": "נ/231"
+		},
+		"row-206": {
+			"num": "207",
+			"name": "יהודה",
+			"fatherName": "חסן",
+			"lastName": "באסל",
+			"religion": "תימן",
+			"age": "5 ש",
+			"notes": "",
+			"caseNum": "נ/232"
+		},
+		"row-207": {
+			"num": "208",
+			"name": "סלוה",
+			"fatherName": "סולימן",
+			"lastName": "סלם",
+			"religion": "תימן",
+			"age": "1.5 ש",
+			"notes": "",
+			"caseNum": "נ/233"
+		},
+		"row-208": {
+			"num": "209",
+			"name": "ציון",
+			"fatherName": "יוסף",
+			"lastName": "זורי",
+			"religion": "תימן",
+			"age": "2 ח",
+			"notes": "",
+			"caseNum": "נ/234"
+		},
+		"row-209": {
+			"num": "210",
+			"name": "יוסף",
+			"fatherName": "סולימן",
+			"lastName": "אשרף",
+			"religion": "תימן",
+			"age": "4 ש",
+			"notes": "",
+			"caseNum": "נ/235"
+		},
+		"row-210": {
+			"num": "211",
+			"name": "עזרא",
+			"fatherName": "יחיא",
+			"lastName": "מליחי",
+			"religion": "תימן",
+			"age": "8 יום",
+			"notes": "",
+			"caseNum": "נ/236"
+		},
+		"row-211": {
+			"num": "212",
+			"name": "סעדיה",
+			"fatherName": "יוסף",
+			"lastName": "לידני",
+			"religion": "תימן",
+			"age": "3 ח",
+			"notes": "",
+			"caseNum": "נ/237"
+		},
+		"row-212": {
+			"num": "213",
+			"name": "ציונה",
+			"fatherName": "עזר",
+			"lastName": "צרום",
+			"religion": "תימן",
+			"age": "6 ח",
+			"notes": "",
+			"caseNum": "נ/238"
+		},
+		"row-213": {
+			"num": "214",
+			"name": "ציון",
+			"fatherName": "יחיא",
+			"lastName": "עוזרי",
+			"religion": "תימן",
+			"age": "6 שבוע",
+			"notes": "",
+			"caseNum": "נ/240"
+		},
+		"row-214": {
+			"num": "215",
+			"name": "3-נפלים",
+			"fatherName": "דוד",
+			"lastName": "נג'ר",
+			"religion": "תימן",
+			"age": "-",
+			"notes": "שלישיה היו 2 ימים",
+			"caseNum": "נ/241"
+		},
+		"row-215": {
+			"num": "216",
+			"name": "נפל",
+			"fatherName": "עזרי",
+			"lastName": "גיאת",
+			"religion": "תימן",
+			"age": "3 יום",
+			"notes": "",
+			"caseNum": "נ/242"
+		},
+		"row-216": {
+			"num": "217",
+			"name": "ציון",
+			"fatherName": "יוסף",
+			"lastName": "לוי",
+			"religion": "תימן",
+			"age": "1.5 ח",
+			"notes": "",
+			"caseNum": "נ/243"
+		},
+		"row-217": {
+			"num": "218",
+			"name": "ישראל",
+			"fatherName": "שמעון",
+			"lastName": "חלא",
+			"religion": "תימן",
+			"age": "4 ח",
+			"notes": "",
+			"caseNum": "נ/244"
+		},
+		"row-218": {
+			"num": "219",
+			"name": "אסתר",
+			"fatherName": "יששכר",
+			"lastName": "מולך",
+			"religion": "אפגניסטן",
+			"age": "3 ש",
+			"notes": "",
+			"caseNum": "נ/245"
+		},
+		"row-219": {
+			"num": "220",
+			"name": "אברהם",
+			"fatherName": "ישראל",
+			"lastName": "ערוסי",
+			"religion": "תימן",
+			"age": "8ח",
+			"notes": "",
+			"caseNum": "נ/246"
+		},
+		"row-220": {
+			"num": "221",
+			"name": "יגאל",
+			"fatherName": "דוד",
+			"lastName": "גטר",
+			"religion": "תימן",
+			"age": "10 יום",
+			"notes": "",
+			"caseNum": "נ/247"
+		},
+		"row-221": {
+			"num": "222",
+			"name": "עוזיאל",
+			"fatherName": "חיים",
+			"lastName": "קרני",
+			"religion": "תימן",
+			"age": "1 ח",
+			"notes": "",
+			"caseNum": "נ/248"
+		},
+		"row-222": {
+			"num": "223",
+			"name": "שושנה",
+			"fatherName": "יצחק",
+			"lastName": "חנש",
+			"religion": "תימן",
+			"age": "8 יום",
+			"notes": "",
+			"caseNum": "נ/249"
+		},
+		"row-223": {
+			"num": "224",
+			"name": "גזל",
+			"fatherName": "יוסף",
+			"lastName": "חוטר",
+			"religion": "תימן",
+			"age": "0.5 ש",
+			"notes": "",
+			"caseNum": "נ/250"
+		},
+		"row-224": {
+			"num": "225",
+			"name": "נפל",
+			"fatherName": "סולימן",
+			"lastName": "סלם",
+			"religion": "תימן",
+			"age": "-",
+			"notes": "",
+			"caseNum": "נ/253"
+		},
+		"row-225": {
+			"num": "226",
+			"name": "זוהרה",
+			"fatherName": "ישראל",
+			"lastName": "סמונה",
+			"religion": "תימן",
+			"age": "5 ח",
+			"notes": "",
+			"caseNum": "נ/251"
+		},
+		"row-226": {
+			"num": "227",
+			"name": "ציון",
+			"fatherName": "שלמה",
+			"lastName": "דהן",
+			"religion": "מרוקו",
+			"age": "5 ח",
+			"notes": "",
+			"caseNum": "-"
+		},
+		"row-227": {
+			"num": "228",
+			"name": "שמעון",
+			"fatherName": "סעיד",
+			"lastName": "בוטה",
+			"religion": "תימן",
+			"age": "9 ח",
+			"notes": "",
+			"caseNum": "נ/254"
+		},
+		"row-228": {
+			"num": "229",
+			"name": "יהודה",
+			"fatherName": "סולימן",
+			"lastName": "קשת",
+			"religion": "תימן",
+			"age": "5 ח",
+			"notes": "",
+			"caseNum": "נ/256"
+		},
+		"row-229": {
+			"num": "230",
+			"name": "חנה",
+			"fatherName": "סלם",
+			"lastName": "רצבי",
+			"religion": "תימן",
+			"age": "6 ש",
+			"notes": "",
+			"caseNum": "נ/258"
+		},
+		"row-230": {
+			"num": "231",
+			"name": "שמחה",
+			"fatherName": "אהרון",
+			"lastName": "עוואד",
+			"religion": "תימן",
+			"age": "7 ח",
+			"notes": "",
+			"caseNum": "נ/259"
+		},
+		"row-231": {
+			"num": "232",
+			"name": "ציונה",
+			"fatherName": "ניסים",
+			"lastName": "חדד",
+			"religion": "תימן",
+			"age": "14 יום",
+			"notes": "",
+			"caseNum": "נ/261"
+		},
+		"row-232": {
+			"num": "233",
+			"name": "יחיא",
+			"fatherName": "יוסף",
+			"lastName": "דפר",
+			"religion": "תימן",
+			"age": "1 ש",
+			"notes": "",
+			"caseNum": "נ/262"
+		},
+		"row-233": {
+			"num": "234",
+			"name": "רחל",
+			"fatherName": "יחיא",
+			"lastName": "נגר",
+			"religion": "תימן",
+			"age": "7 ח",
+			"notes": "",
+			"caseNum": "נ/263"
+		},
+		"row-234": {
+			"num": "235",
+			"name": "ציון",
+			"fatherName": "אברהם",
+			"lastName": "כברה",
+			"religion": "תימן",
+			"age": "17 יום",
+			"notes": "",
+			"caseNum": "נ/264"
+		},
+		"row-235": {
+			"num": "236",
+			"name": "סימן",
+			"fatherName": "סלם",
+			"lastName": "סודרי",
+			"religion": "תימן",
+			"age": "3 ח",
+			"notes": "",
+			"caseNum": "נ/267"
+		},
+		"row-236": {
+			"num": "237",
+			"name": "ציונה",
+			"fatherName": "מעודה",
+			"lastName": "סלם",
+			"religion": "תימן",
+			"age": "4 ח",
+			"notes": "",
+			"caseNum": "נ/268"
+		},
+		"row-237": {
+			"num": "238",
+			"name": "סעיד",
+			"fatherName": "מעודה",
+			"lastName": "סלם",
+			"religion": "תימן",
+			"age": "2 ש",
+			"notes": "",
+			"caseNum": "נ/269"
+		},
+		"row-238": {
+			"num": "239",
+			"name": "מרים",
+			"fatherName": "יחיא",
+			"lastName": "דמארי",
+			"religion": "תימן",
+			"age": "3 ח",
+			"notes": "",
+			"caseNum": "נ/270"
+		},
+		"row-239": {
+			"num": "240",
+			"name": "טוב",
+			"fatherName": "שוקר",
+			"lastName": "גברא",
+			"religion": "תימן",
+			"age": "9 ח",
+			"notes": "",
+			"caseNum": "נ/271"
+		},
+		"row-240": {
+			"num": "241",
+			"name": "כרמלה",
+			"fatherName": "שאול",
+			"lastName": "זכריה",
+			"religion": "תימן",
+			"age": "3 ח",
+			"notes": "",
+			"caseNum": "נ/272"
+		},
+		"row-241": {
+			"num": "242",
+			"name": "עדינה",
+			"fatherName": "אפרים",
+			"lastName": "עטייה",
+			"religion": "טריפולי",
+			"age": "1 ש",
+			"notes": "",
+			"caseNum": "נ/273"
+		},
+		"row-242": {
+			"num": "243",
+			"name": "הרצל",
+			"fatherName": "ירמיה",
+			"lastName": "עטיה",
+			"religion": "תימן",
+			"age": "1 ש",
+			"notes": "",
+			"caseNum": "נ/274"
+		},
+		"row-243": {
+			"num": "244",
+			"name": "צדוק",
+			"fatherName": "יעקב",
+			"lastName": "גראמה",
+			"religion": "תימן",
+			"age": "15 ח",
+			"notes": "",
+			"caseNum": "נ/275"
+		},
+		"row-244": {
+			"num": "245",
+			"name": "יוסף",
+			"fatherName": "שאול",
+			"lastName": "דואק",
+			"religion": "מצרים",
+			"age": "15 ח",
+			"notes": "",
+			"caseNum": "נ/276"
+		},
+		"row-245": {
+			"num": "246",
+			"name": "מחנה",
+			"fatherName": "מנשה",
+			"lastName": "אסבת",
+			"religion": "תימן",
+			"age": "5 ש",
+			"notes": "",
+			"caseNum": "נ/277"
+		},
+		"row-246": {
+			"num": "247",
+			"name": "יהודה",
+			"fatherName": "סאלם",
+			"lastName": "מחדרי",
+			"religion": "תימן",
+			"age": "5 ח",
+			"notes": "",
+			"caseNum": "נ/278"
+		},
+		"row-247": {
+			"num": "248",
+			"name": "רחל",
+			"fatherName": "סלימאן",
+			"lastName": "שבאס",
+			"religion": "תימן",
+			"age": "15 יום",
+			"notes": "",
+			"caseNum": "נ/279"
+		},
+		"row-248": {
+			"num": "249",
+			"name": "הלל",
+			"fatherName": "אברהם",
+			"lastName": "זוהר-יזנפינה",
+			"religion": "פרס",
+			"age": "6 ח",
+			"notes": "",
+			"caseNum": "נ/280"
+		},
+		"row-249": {
+			"num": "250",
+			"name": "סלם",
+			"fatherName": "יחיא",
+			"lastName": "דפר",
+			"religion": "תימן",
+			"age": "25 ש",
+			"notes": "",
+			"caseNum": "נ/281"
+		},
+		"row-250": {
+			"num": "251",
+			"name": "לולואה",
+			"fatherName": "יוסף",
+			"lastName": "אקועה",
+			"religion": "תימן",
+			"age": "4 ש",
+			"notes": "",
+			"caseNum": "נ/282"
+		},
+		"row-251": {
+			"num": "252",
+			"name": "רחמים",
+			"fatherName": "יהודה",
+			"lastName": "כהן",
+			"religion": "תימן",
+			"age": "2.5 ח",
+			"notes": "",
+			"caseNum": "נ/283"
+		},
+		"row-252": {
+			"num": "253",
+			"name": "אסתר",
+			"fatherName": "יחיא",
+			"lastName": "נג'ר",
+			"religion": "תימן",
+			"age": "1 ח",
+			"notes": "",
+			"caseNum": "נ/284"
+		},
+		"row-253": {
+			"num": "254",
+			"name": "רוני",
+			"fatherName": "משה",
+			"lastName": "טובול",
+			"religion": "מרוקו",
+			"age": "3 ח",
+			"notes": "",
+			"caseNum": "נ/285"
+		},
+		"row-254": {
+			"num": "255",
+			"name": "ציונה",
+			"fatherName": "סולימן",
+			"lastName": "גמליאל",
+			"religion": "תימן",
+			"age": "6 ח",
+			"notes": "",
+			"caseNum": "נ/286"
+		},
+		"row-255": {
+			"num": "256",
+			"name": "רחמים",
+			"fatherName": "יפת",
+			"lastName": "יהודה-שובילי",
+			"religion": "תימן",
+			"age": "1 ח",
+			"notes": "",
+			"caseNum": "נ/287"
+		},
+		"row-256": {
+			"num": "257",
+			"name": "מזל",
+			"fatherName": "יחיא",
+			"lastName": "חוכימה",
+			"religion": "תימן",
+			"age": "5 ח",
+			"notes": "",
+			"caseNum": "נ/288"
+		},
+		"row-257": {
+			"num": "258",
+			"name": "שמעון",
+			"fatherName": "שלמה",
+			"lastName": "צפור",
+			"religion": "תימן",
+			"age": "2 ח",
+			"notes": "",
+			"caseNum": "נ/289"
+		},
+		"row-258": {
+			"num": "259",
+			"name": "-",
+			"fatherName": "סעדיה",
+			"lastName": "חסר",
+			"religion": "תימן",
+			"age": "נפל",
+			"notes": "",
+			"caseNum": "נ/291"
+		},
+		"row-259": {
+			"num": "260",
+			"name": "ציון",
+			"fatherName": "והב",
+			"lastName": "אחרק",
+			"religion": "תימן",
+			"age": "1 ח",
+			"notes": "",
+			"caseNum": "נ/292"
+		},
+		"row-260": {
+			"num": "261",
+			"name": "נפל",
+			"fatherName": "יוסף",
+			"lastName": "אחרק",
+			"religion": "תימן",
+			"age": "-",
+			"notes": "",
+			"caseNum": "נ/293"
+		},
+		"row-261": {
+			"num": "262",
+			"name": "אברהם",
+			"fatherName": "סעיד",
+			"lastName": "חדד",
+			"religion": "תימן",
+			"age": "5 ח",
+			"notes": "",
+			"caseNum": "נ/294"
+		},
+		"row-262": {
+			"num": "263",
+			"name": "ציון",
+			"fatherName": "מוסה",
+			"lastName": "מועלם",
+			"religion": "תימן",
+			"age": "22 יום",
+			"notes": "",
+			"caseNum": "נ/295"
+		},
+		"row-263": {
+			"num": "264",
+			"name": "טוב",
+			"fatherName": "יחיא",
+			"lastName": "עמר",
+			"religion": "תימן",
+			"age": "1 ש",
+			"notes": "",
+			"caseNum": "נ/296"
+		},
+		"row-264": {
+			"num": "265",
+			"name": "ידידה",
+			"fatherName": "יחיא",
+			"lastName": "ג'ובני",
+			"religion": "תימן",
+			"age": "5 ח",
+			"notes": "",
+			"caseNum": "נ/297"
+		},
+		"row-265": {
+			"num": "266",
+			"name": "חממה",
+			"fatherName": "שלם",
+			"lastName": "נג'ר",
+			"religion": "תימן",
+			"age": "1.5 ש",
+			"notes": "",
+			"caseNum": "נ/298"
+		},
+		"row-266": {
+			"num": "267",
+			"name": "שמעון",
+			"fatherName": "יוסף",
+			"lastName": "ציב",
+			"religion": "תימן",
+			"age": "4 ש",
+			"notes": "",
+			"caseNum": "נ/299"
+		},
+		"row-267": {
+			"num": "268",
+			"name": "רבקה",
+			"fatherName": "לוי",
+			"lastName": "כהן",
+			"religion": "תימן",
+			"age": "20 יום",
+			"notes": "",
+			"caseNum": "נ/300"
+		},
+		"row-268": {
+			"num": "269",
+			"name": "סלם",
+			"fatherName": "אברהם",
+			"lastName": "לוי",
+			"religion": "תימן",
+			"age": "2 ח",
+			"notes": "",
+			"caseNum": "נ/301"
+		},
+		"row-269": {
+			"num": "270",
+			"name": "שושנה",
+			"fatherName": "מוסה",
+			"lastName": "והב",
+			"religion": "תימן",
+			"age": "2 ח",
+			"notes": "",
+			"caseNum": "נ/302"
+		},
+		"row-270": {
+			"num": "271",
+			"name": "עדינה",
+			"fatherName": "מנחם",
+			"lastName": "טוב",
+			"religion": "תימן",
+			"age": "8 ח",
+			"notes": "",
+			"caseNum": "נ/305"
+		},
+		"row-271": {
+			"num": "272",
+			"name": "ציון",
+			"fatherName": "יחיא",
+			"lastName": "לולו",
+			"religion": "תימן",
+			"age": "12 יום",
+			"notes": "",
+			"caseNum": "נ/304"
+		},
+		"row-272": {
+			"num": "273",
+			"name": "ציון",
+			"fatherName": "אהרון",
+			"lastName": "מינס",
+			"religion": "תימן",
+			"age": "1.5 ח",
+			"notes": "",
+			"caseNum": "נ/306"
+		},
+		"row-273": {
+			"num": "274",
+			"name": "ציון",
+			"fatherName": "יחיא",
+			"lastName": "חרפוף",
+			"religion": "תימן",
+			"age": "8 ח",
+			"notes": "",
+			"caseNum": "נ/307"
+		},
+		"row-274": {
+			"num": "275",
+			"name": "יונה",
+			"fatherName": "שמעון",
+			"lastName": "מליחי",
+			"religion": "תימן",
+			"age": "5 ח",
+			"notes": "",
+			"caseNum": "נ/308"
+		},
+		"row-275": {
+			"num": "276",
+			"name": "גורה",
+			"fatherName": "יום-טוב",
+			"lastName": "בנה",
+			"religion": "פרס",
+			"age": "3.5 ח",
+			"notes": "",
+			"caseNum": "נ/312"
+		},
+		"row-276": {
+			"num": "277",
+			"name": "מזל",
+			"fatherName": "יוסף",
+			"lastName": "גריטי",
+			"religion": "תימן",
+			"age": "1 ש",
+			"notes": "",
+			"caseNum": "נ/313"
+		},
+		"row-277": {
+			"num": "278",
+			"name": "עזרא",
+			"fatherName": "יחיא",
+			"lastName": "פרוי",
+			"religion": "תימן",
+			"age": "8 ח",
+			"notes": "",
+			"caseNum": "נ/314"
+		},
+		"row-278": {
+			"num": "279",
+			"name": "יעקב",
+			"fatherName": "שלמה",
+			"lastName": "בוצצו",
+			"religion": "בולגריה",
+			"age": "2 ש",
+			"notes": "",
+			"caseNum": "נ/315"
+		},
+		"row-279": {
+			"num": "280",
+			"name": "שלום",
+			"fatherName": "סעדיה",
+			"lastName": "זהרי",
+			"religion": "תימן",
+			"age": "2 ש",
+			"notes": "",
+			"caseNum": "נ/309"
+		},
+		"row-280": {
+			"num": "281",
+			"name": "משה",
+			"fatherName": "עמרן",
+			"lastName": "רדא",
+			"religion": "תימן",
+			"age": "6 שבוע",
+			"notes": "",
+			"caseNum": "נ/319"
+		},
+		"row-281": {
+			"num": "282",
+			"name": "שאול",
+			"fatherName": "יהודה",
+			"lastName": "מטרי",
+			"religion": "תימן",
+			"age": "8 ח",
+			"notes": "",
+			"caseNum": "נ/320"
+		},
+		"row-282": {
+			"num": "283",
+			"name": "גאולה",
+			"fatherName": "יוסף",
+			"lastName": "ימיני",
+			"religion": "תימן",
+			"age": "3 ח",
+			"notes": "",
+			"caseNum": "נ/321"
+		},
+		"row-283": {
+			"num": "284",
+			"name": "שמעה",
+			"fatherName": "חיים",
+			"lastName": "צבטני",
+			"religion": "תימן",
+			"age": "14 ש",
+			"notes": "",
+			"caseNum": "נ/322"
+		},
+		"row-284": {
+			"num": "285",
+			"name": "שמעה",
+			"fatherName": "עמרן",
+			"lastName": "פרחי",
+			"religion": "תימן",
+			"age": "5 ח",
+			"notes": "",
+			"caseNum": "נ/323"
+		},
+		"row-285": {
+			"num": "286",
+			"name": "שמואל",
+			"fatherName": "שלם",
+			"lastName": "אקרח",
+			"religion": "תימן",
+			"age": "3 ח",
+			"notes": "",
+			"caseNum": "נ/324"
+		},
+		"row-286": {
+			"num": "287",
+			"name": "מרים",
+			"fatherName": "שלם",
+			"lastName": "חתוקה",
+			"religion": "תימן",
+			"age": "2.5 ש",
+			"notes": "",
+			"caseNum": "נ/325"
+		},
+		"row-287": {
+			"num": "288",
+			"name": "מיכל",
+			"fatherName": "שמעון",
+			"lastName": "יצחק",
+			"religion": "תימן",
+			"age": "7 ח",
+			"notes": "",
+			"caseNum": "נ/327"
+		},
+		"row-288": {
+			"num": "289",
+			"name": "זכריה",
+			"fatherName": "סעיד",
+			"lastName": "אחרק",
+			"religion": "תימן",
+			"age": "10 יום",
+			"notes": "",
+			"caseNum": "נ/329"
+		},
+		"row-289": {
+			"num": "290",
+			"name": "מסעור",
+			"fatherName": "סעיד",
+			"lastName": "סגרון",
+			"religion": "טוניס",
+			"age": "5 ח",
+			"notes": "",
+			"caseNum": "נ/332"
+		},
+		"row-290": {
+			"num": "291",
+			"name": "סעדה",
+			"fatherName": "יחיא",
+			"lastName": "מהדרי",
+			"religion": "תימן",
+			"age": "1 ש",
+			"notes": "",
+			"caseNum": "נ/334"
+		},
+		"row-291": {
+			"num": "292",
+			"name": "יצחק",
+			"fatherName": "אהרון",
+			"lastName": "שלום-שוקרי",
+			"religion": "תימן",
+			"age": "2 ח",
+			"notes": "",
+			"caseNum": "נ/337"
+		},
+		"row-292": {
+			"num": "293",
+			"name": "שמעון",
+			"fatherName": "אהרון",
+			"lastName": "שלום-שוקרי",
+			"religion": "תימן",
+			"age": "1 ש",
+			"notes": "",
+			"caseNum": "נ/338"
+		},
+		"row-293": {
+			"num": "294",
+			"name": "גבריאל",
+			"fatherName": "סלם",
+			"lastName": "עמרן",
+			"religion": "תימן",
+			"age": "3 ח",
+			"notes": "",
+			"caseNum": "נ/340"
+		},
+		"row-294": {
+			"num": "295",
+			"name": "ציון",
+			"fatherName": "צדוק",
+			"lastName": "דהרי",
+			"religion": "תימן",
+			"age": "18 ח",
+			"notes": "",
+			"caseNum": "נ/342"
+		},
+		"row-295": {
+			"num": "296",
+			"name": "מוסה",
+			"fatherName": "יחיא",
+			"lastName": "גואס",
+			"religion": "תימן",
+			"age": "14 יום",
+			"notes": "",
+			"caseNum": "נ/343"
+		},
+		"row-296": {
+			"num": "297",
+			"name": "אבנר",
+			"fatherName": "רצון",
+			"lastName": "רדא",
+			"religion": "תימן",
+			"age": "5 ח",
+			"notes": "",
+			"caseNum": "נ/344"
+		},
+		"row-297": {
+			"num": "298",
+			"name": "-",
+			"fatherName": "סלם",
+			"lastName": "ניני",
+			"religion": "תימן",
+			"age": "נפל",
+			"notes": "",
+			"caseNum": "נ/345"
+		},
+		"row-298": {
+			"num": "299",
+			"name": "רחמים",
+			"fatherName": "שלום",
+			"lastName": "יחיא",
+			"religion": "תימן",
+			"age": "3 ח",
+			"notes": "",
+			"caseNum": "נ/346"
+		},
+		"row-299": {
+			"num": "300",
+			"name": "רחל",
+			"fatherName": "סעיד",
+			"lastName": "עומיסי",
+			"religion": "תימן",
+			"age": "2 ח",
+			"notes": "",
+			"caseNum": "נ/348"
+		},
+		"row-300": {
+			"num": "301",
+			"name": "יונה",
+			"fatherName": "אהרון",
+			"lastName": "כהן",
+			"religion": "תימן",
+			"age": "20 ש",
+			"notes": "",
+			"caseNum": "נ/349"
+		},
+		"row-301": {
+			"num": "302",
+			"name": "ברוך",
+			"fatherName": "סולימן",
+			"lastName": "אשרף",
+			"religion": "תימן",
+			"age": "3 ח",
+			"notes": "",
+			"caseNum": "נ/350"
+		},
+		"row-302": {
+			"num": "303",
+			"name": "לאה",
+			"fatherName": "והב",
+			"lastName": "אברהם",
+			"religion": "תימן",
+			"age": "18 ח",
+			"notes": "",
+			"caseNum": "נ/352"
+		},
+		"row-303": {
+			"num": "304",
+			"name": "-",
+			"fatherName": "סולימן",
+			"lastName": "צברי",
+			"religion": "תימן",
+			"age": "נפל",
+			"notes": "",
+			"caseNum": "נ/351"
+		},
+		"row-304": {
+			"num": "305",
+			"name": "ציון",
+			"fatherName": "פנחס",
+			"lastName": "כהן",
+			"religion": "תימן",
+			"age": "1 ש",
+			"notes": "",
+			"caseNum": "נ/316"
+		},
+		"row-305": {
+			"num": "306",
+			"name": "ברכה",
+			"fatherName": "יחיא",
+			"lastName": "קורח",
+			"religion": "תימן",
+			"age": "9 ח",
+			"notes": "",
+			"caseNum": "נ/347"
+		},
+		"row-306": {
+			"num": "307",
+			"name": "אפרים",
+			"fatherName": "שלום",
+			"lastName": "חשובה",
+			"religion": "טריפולי",
+			"age": "1 ש",
+			"notes": "",
+			"caseNum": "נ/341"
+		},
+		"row-307": {
+			"num": "308",
+			"name": "מרים",
+			"fatherName": "יעקב",
+			"lastName": "הינדי",
+			"religion": "תימן",
+			"age": "18 יום",
+			"notes": "",
+			"caseNum": "נ/335"
+		},
+		"row-308": {
+			"num": "309",
+			"name": "חממה",
+			"fatherName": "אהרון",
+			"lastName": "סברי",
+			"religion": "תימן",
+			"age": "7.5 ח",
+			"notes": "",
+			"caseNum": "נ/328"
+		},
+		"row-309": {
+			"num": "310",
+			"name": "-",
+			"fatherName": "רחמים",
+			"lastName": "קצב",
+			"religion": "פרס",
+			"age": "נפל",
+			"notes": "",
+			"caseNum": "נ/331"
+		},
+		"row-310": {
+			"num": "311",
+			"name": "צביה",
+			"fatherName": "סלם",
+			"lastName": "סנעני",
+			"religion": "תימן",
+			"age": "3 ש",
+			"notes": "",
+			"caseNum": "נ/330"
+		},
+		"row-311": {
+			"num": "312",
+			"name": "לאה",
+			"fatherName": "משה",
+			"lastName": "חכימי",
+			"religion": "אפגניסטן",
+			"age": "1 ח",
+			"notes": "",
+			"caseNum": "נ/303"
+		},
+		"row-312": {
+			"num": "313",
+			"name": "יחיא",
+			"fatherName": "סלימן",
+			"lastName": "חדד",
+			"religion": "תימן",
+			"age": "3 ש",
+			"notes": "",
+			"caseNum": "נ/336"
+		},
+		"row-313": {
+			"num": "314",
+			"name": "מזל",
+			"fatherName": "חסן",
+			"lastName": "אפרים",
+			"religion": "תימן",
+			"age": "0.5 ש",
+			"notes": "",
+			"caseNum": "נ/310"
+		},
+		"row-314": {
+			"num": "315",
+			"name": "אהרון",
+			"fatherName": "יעקב",
+			"lastName": "טלבי",
+			"religion": "תימן",
+			"age": "1 ש",
+			"notes": "",
+			"caseNum": "נ/326"
+		},
+		"row-315": {
+			"num": "316",
+			"name": "ישראל",
+			"fatherName": "יחיא",
+			"lastName": "גוטי",
+			"religion": "תימן",
+			"age": "4 ח",
+			"notes": "",
+			"caseNum": "נ/333"
+		},
+		"row-316": {
+			"num": "317",
+			"name": "סעדה",
+			"fatherName": "מנחם",
+			"lastName": "סעדיה",
+			"religion": "תימן",
+			"age": "5 ח",
+			"notes": "",
+			"caseNum": "נ/353"
+		},
+		"row-317": {
+			"num": "318",
+			"name": "גוהרה",
+			"fatherName": "מלכה",
+			"lastName": "חלפון",
+			"religion": "טריפולי",
+			"age": "4 ח",
+			"notes": "",
+			"caseNum": "נ/354"
+		},
+		"row-318": {
+			"num": "319",
+			"name": "צפורה",
+			"fatherName": "סלם",
+			"lastName": "חמדי-והב",
+			"religion": "תימן",
+			"age": "5 ח",
+			"notes": "",
+			"caseNum": "נ/122"
+		},
+		"row-319": {
+			"num": "320",
+			"name": "נסים",
+			"fatherName": "סלם",
+			"lastName": "חמדי-והב",
+			"religion": "תימן",
+			"age": "2 ח",
+			"notes": "",
+			"caseNum": "נ/123"
+		},
+		"row-320": {
+			"num": "321",
+			"name": "חיים",
+			"fatherName": "יחיא",
+			"lastName": "קרואני",
+			"religion": "תימן",
+			"age": "10 ח",
+			"notes": "",
+			"caseNum": "נ/103"
+		},
+		"row-321": {
+			"num": "322",
+			"name": "ציונה",
+			"fatherName": "יחיא",
+			"lastName": "השאש",
+			"religion": "תימן",
+			"age": "3 ח",
+			"notes": "",
+			"caseNum": "נ/141"
+		},
+		"row-322": {
+			"num": "323",
+			"name": "סעדה",
+			"fatherName": "סלח",
+			"lastName": "שמעון-יהושע",
+			"religion": "תימן",
+			"age": "4 ח",
+			"notes": "נתקבל ממשטרת ישראל",
+			"caseNum": "נ/23"
+		},
+		"row-323": {
+			"num": "324",
+			"name": "רחל",
+			"fatherName": "סולימן",
+			"lastName": "שמעה",
+			"religion": "תימן",
+			"age": "1 ש",
+			"notes": "נתקבל ממשטרת ישראל",
+			"caseNum": "נ/29"
+		},
+		"row-324": {
+			"num": "325",
+			"name": "עמן",
+			"fatherName": "יוסף",
+			"lastName": "לוי",
+			"religion": "תימן",
+			"age": "2.5 ש",
+			"notes": "נתקבל ממשטרת ישראל",
+			"caseNum": "נ/257"
+		},
+		"row-325": {
+			"num": "326",
+			"name": "סעדה",
+			"fatherName": "יוסף",
+			"lastName": "קומימי",
+			"religion": "תימן",
+			"age": "18 ח",
+			"notes": "",
+			"caseNum": "נ/238"
+		},
+		"row-326": {
+			"num": "327",
+			"name": "ציון",
+			"fatherName": "יחיא",
+			"lastName": "סלם",
+			"religion": "תימן",
+			"age": "2 ש",
+			"notes": "נתקבל ממשטרת ישראל",
+			"caseNum": "נ/31"
+		},
+		"row-327": {
+			"num": "328",
+			"name": "מרתיאל-פלתיאל",
+			"fatherName": "דוד-שלום",
+			"lastName": "רדא",
+			"religion": "תימן",
+			"age": "1 ש",
+			"notes": "נתקבל ממשטרת ישראל",
+			"caseNum": "נ/26"
+		},
+		"row-328": {
+			"num": "329",
+			"name": "ישראל",
+			"fatherName": "יוסף",
+			"lastName": "מדמון",
+			"religion": "תימן",
+			"age": "5 יום",
+			"notes": "",
+			"caseNum": "נ/197"
+		},
+		"row-329": {
+			"num": "330",
+			"name": "משה",
+			"fatherName": "סלם",
+			"lastName": "נגר",
+			"religion": "תימן",
+			"age": "8 ח",
+			"notes": "נתקבל ממשטרת ישראל",
+			"caseNum": "נ/20"
+		},
+		"row-330": {
+			"num": "331",
+			"name": "רחל",
+			"fatherName": "שוקר",
+			"lastName": "כהן",
+			"religion": "תימן",
+			"age": "2 ש",
+			"notes": "נתקבל ממשטרת ישראל",
+			"caseNum": "נ/27"
+		},
+		"row-331": {
+			"num": "332",
+			"name": "חיים",
+			"fatherName": "אפרים",
+			"lastName": "קרני",
+			"religion": "תימן",
+			"age": "4 ח",
+			"notes": "",
+			"caseNum": "נ/72"
+		},
+		"row-332": {
+			"num": "333",
+			"name": "שושנה",
+			"fatherName": "סלם",
+			"lastName": "קוטה",
+			"religion": "תימן",
+			"age": "1 ח",
+			"notes": "",
+			"caseNum": "נ/240"
+		},
+		"row-333": {
+			"num": "334",
+			"name": "תרנג'ה",
+			"fatherName": "משה",
+			"lastName": "גובאני",
+			"religion": "תימן",
+			"age": "5 ש",
+			"notes": "",
+			"caseNum": "נ/163"
+		},
+		"row-334": {
+			"num": "335",
+			"name": "ציון",
+			"fatherName": "רפאל",
+			"lastName": "עמרני",
+			"religion": "תימן",
+			"age": "6 ח",
+			"notes": "",
+			"caseNum": "נ/79"
+		},
+		"row-335": {
+			"num": "336",
+			"name": "תמניה",
+			"fatherName": "יוסף",
+			"lastName": "הברי",
+			"religion": "תימן",
+			"age": "12 ש",
+			"notes": "",
+			"caseNum": "נ/153"
+		},
+		"row-336": {
+			"num": "337",
+			"name": "ציון",
+			"fatherName": "סלם",
+			"lastName": "ערוסי",
+			"religion": "תימן",
+			"age": "1 ח",
+			"notes": "",
+			"caseNum": "נ/94"
+		},
+		"row-337": {
+			"num": "338",
+			"name": "רחל-שרה",
+			"fatherName": "מנשה",
+			"lastName": "לידני",
+			"religion": "תימן",
+			"age": "3 שבוע",
+			"notes": "",
+			"caseNum": "נ/19"
+		},
+		"row-338": {
+			"num": "339",
+			"name": "רות",
+			"fatherName": "חיים",
+			"lastName": "עמרן",
+			"religion": "תימן",
+			"age": "1 יום",
+			"notes": "",
+			"caseNum": "נ/318"
+		},
+		"row-339": {
+			"num": "340",
+			"name": "ידידה-נצחיה",
+			"fatherName": "סאלם",
+			"lastName": "בוני",
+			"religion": "תימן",
+			"age": "5 ח",
+			"notes": "",
+			"caseNum": "נ/311"
+		},
+		"row-340": {
+			"num": "341",
+			"name": "אליה",
+			"fatherName": "סעדיה",
+			"lastName": "יששכר",
+			"religion": "תימן",
+			"age": "1 ש",
+			"notes": "",
+			"caseNum": "נ/213"
+		},
+		"row-341": {
+			"num": "342",
+			"name": "אליהו-יוסף",
+			"fatherName": "יחיא (צלח)",
+			"lastName": "צדוק",
+			"religion": "תימן",
+			"age": "2 ש",
+			"notes": "",
+			"caseNum": "נ/339"
+		}
+	}
+}
