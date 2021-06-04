@@ -1,0 +1,3424 @@
+<list>
+
+<row-0>
+  <num>1</num>
+  <name>סלמה</name>
+  <fatherName>ישראל</fatherName>
+  <lastName>דחבש</lastName>
+  <religion>תימן</religion>
+  <age>18 ח</age>
+  <notes>הועבר ממשטרת ישראל</notes>
+  <caseNum>נ/1</caseNum>
+</row-0>
+<row-1>
+  <num>2</num>
+  <name>סעדה</name>
+  <fatherName>סלם</fatherName>
+  <lastName>מרחום</lastName>
+  <religion>תימן</religion>
+  <age>2 ש</age>
+  <notes>הועבר ממשטרת ישראל</notes>
+  <caseNum>נ/2</caseNum>
+</row-1>
+<row-2>
+  <num>3</num>
+  <name>רחל</name>
+  <fatherName>יחיא</fatherName>
+  <lastName>חסן</lastName>
+  <religion>תימן</religion>
+  <age>2 ח</age>
+  <notes>הועבר ממשטרת ישראל</notes>
+  <caseNum>נ/3</caseNum>
+</row-2>
+<row-3>
+  <num>4</num>
+  <name>שמעון</name>
+  <fatherName>סלם</fatherName>
+  <lastName>עוקשי</lastName>
+  <religion>תימן</religion>
+  <age>4 ש</age>
+  <notes>הועבר ממשטרת ישראל</notes>
+  <caseNum>נ/4</caseNum>
+</row-3>
+<row-4>
+  <num>5</num>
+  <name>חממה</name>
+  <fatherName>שלמה</fatherName>
+  <lastName>חג'בי</lastName>
+  <religion>תימן</religion>
+  <age>2 ש</age>
+  <notes>הועבר ממשטרת ישראל</notes>
+  <caseNum>נ/5</caseNum>
+</row-4>
+<row-5>
+  <num>6</num>
+  <name>זוהרה</name>
+  <fatherName>ישראל</fatherName>
+  <lastName>אשרי</lastName>
+  <religion>תימן</religion>
+  <age>10 ש</age>
+  <notes>הועבר ממשטרת ישראל</notes>
+  <caseNum>נ/6</caseNum>
+</row-5>
+<row-6>
+  <num>7</num>
+  <name>סלם</name>
+  <fatherName>יונה</fatherName>
+  <lastName>שמעון</lastName>
+  <religion>עירק</religion>
+  <age>11 ח</age>
+  <notes>הועבר ממשטרת ישראל</notes>
+  <caseNum>נ/7</caseNum>
+</row-6>
+<row-7>
+  <num>8</num>
+  <name>סעדה</name>
+  <fatherName>סולימאן</fatherName>
+  <lastName>רמאדן</lastName>
+  <religion>עירק</religion>
+  <age>10 ח</age>
+  <notes>הועבר ממשטרת ישראל</notes>
+  <caseNum>נ/8</caseNum>
+</row-7>
+<row-8>
+  <num>9</num>
+  <name>נאוה</name>
+  <fatherName>מוסלם</fatherName>
+  <lastName>שרעבי</lastName>
+  <religion>עירק</religion>
+  <age>8 ח</age>
+  <notes>הועבר ממשטרת ישראל</notes>
+  <caseNum>נ/9</caseNum>
+</row-8>
+<row-9>
+  <num>10</num>
+  <name>נפל</name>
+  <fatherName>מוסלם</fatherName>
+  <lastName>שרעבי</lastName>
+  <religion>עירק</religion>
+  <age>0.5 יום</age>
+  <notes>הועבר ממשטרת ישראל</notes>
+  <caseNum>נ/357</caseNum>
+</row-9>
+<row-10>
+  <num>11</num>
+  <name>יחיאל</name>
+  <fatherName>סעדיה</fatherName>
+  <lastName>חוברה</lastName>
+  <religion>עירק</religion>
+  <age>3 ח</age>
+  <notes>הועבר ממשטרת ישראל</notes>
+  <caseNum>נ/10</caseNum>
+</row-10>
+<row-11>
+  <num>12</num>
+  <name>ישראל</name>
+  <fatherName>סלח</fatherName>
+  <lastName>אשוואל</lastName>
+  <religion>עירק</religion>
+  <age>8 ח</age>
+  <notes>הועבר ממשטרת ישראל</notes>
+  <caseNum>נ/11</caseNum>
+</row-11>
+<row-12>
+  <num>13</num>
+  <name>שמחה</name>
+  <fatherName>דוד</fatherName>
+  <lastName>סלימן</lastName>
+  <religion>עירק</religion>
+  <age>1 ש</age>
+  <notes>הועבר ממשטרת ישראל</notes>
+  <caseNum>נ/12</caseNum>
+</row-12>
+<row-13>
+  <num>14</num>
+  <name>ציונה</name>
+  <fatherName>סלם</fatherName>
+  <lastName>סלם</lastName>
+  <religion>עירק</religion>
+  <age>18 ח</age>
+  <notes>הועבר ממשטרת ישראל</notes>
+  <caseNum>נ/13</caseNum>
+</row-13>
+<row-14>
+  <num>15</num>
+  <name>חיים</name>
+  <fatherName>יהושע</fatherName>
+  <lastName>ג'מל</lastName>
+  <religion>עירק</religion>
+  <age>10 ח</age>
+  <notes>הועבר ממשטרת ישראל</notes>
+  <caseNum>נ/14</caseNum>
+</row-14>
+<row-15>
+  <num>16</num>
+  <name>לאה</name>
+  <fatherName>שמואל</fatherName>
+  <lastName>שרעבי</lastName>
+  <religion>עירק</religion>
+  <age>3 ש</age>
+  <notes>הועבר ממשטרת ישראל</notes>
+  <caseNum>נ/15</caseNum>
+</row-15>
+<row-16>
+  <num>17</num>
+  <name>רבקה-יעל</name>
+  <fatherName>יעקב</fatherName>
+  <lastName>אוזן</lastName>
+  <religion>טוניס</religion>
+  <age>10 ח</age>
+  <notes>הועבר ממשטרת ישראל</notes>
+  <caseNum>נ/16</caseNum>
+</row-16>
+<row-17>
+  <num>18</num>
+  <name>דוד</name>
+  <fatherName>שמעון</fatherName>
+  <lastName>ודעי</lastName>
+  <religion>תימן</religion>
+  <age>1 ח</age>
+  <notes>הועבר ממשטרת ישראל</notes>
+  <caseNum>נ/17</caseNum>
+</row-17>
+<row-18>
+  <num>19</num>
+  <name>רחמים</name>
+  <fatherName>שקר</fatherName>
+  <lastName>שקר</lastName>
+  <religion>עירק</religion>
+  <age>8 ח</age>
+  <notes>הועבר ממשטרת ישראל</notes>
+  <caseNum>נ/18</caseNum>
+</row-18>
+<row-19>
+  <num>20</num>
+  <name>נעמה</name>
+  <fatherName>יחיא</fatherName>
+  <lastName>סלח</lastName>
+  <religion>תימן</religion>
+  <age>18 ח</age>
+  <notes>הועבר ממשטרת ישראל</notes>
+  <caseNum>נ/21</caseNum>
+</row-19>
+<row-20>
+  <num>21</num>
+  <name>חיים</name>
+  <fatherName>סלימן</fatherName>
+  <lastName>בהגלי</lastName>
+  <religion>תימן</religion>
+  <age>10 ח</age>
+  <notes>הועבר ממשטרת ישראל</notes>
+  <caseNum>נ/22</caseNum>
+</row-20>
+<row-21>
+  <num>22</num>
+  <name>נעמה-נג'ימה</name>
+  <fatherName>סלאס</fatherName>
+  <lastName>חוקיימה</lastName>
+  <religion>תימן</religion>
+  <age>1 ש</age>
+  <notes>הועבר ממשטרת ישראל</notes>
+  <caseNum>נ/88</caseNum>
+</row-21>
+<row-22>
+  <num>23</num>
+  <name>רחל</name>
+  <fatherName>מעידה</fatherName>
+  <lastName>כהן</lastName>
+  <religion>תימן</religion>
+  <age>6 ח</age>
+  <notes>הועבר למשטרת ישראל</notes>
+  <caseNum>נ247</caseNum>
+</row-22>
+<row-23>
+  <num>24</num>
+  <name>ציון</name>
+  <fatherName>אברהם-יוסף</fatherName>
+  <lastName>סעדיה</lastName>
+  <religion>תימן</religion>
+  <age>4 ח</age>
+  <notes>הועבר למשטרת ישראל</notes>
+  <caseNum>נ/18</caseNum>
+</row-23>
+<row-24>
+  <num>25</num>
+  <name>שלום</name>
+  <fatherName>דוד</fatherName>
+  <lastName>ג'חסי</lastName>
+  <religion>תימן</religion>
+  <age>1 ש</age>
+  <notes>הועבר למשטרת ישראל</notes>
+  <caseNum>נ/30</caseNum>
+</row-24>
+<row-25>
+  <num>26</num>
+  <name>יוסף</name>
+  <fatherName>דוד</fatherName>
+  <lastName>ג'חסי</lastName>
+  <religion>תימן</religion>
+  <age>1 ש</age>
+  <notes>הועבר למשטרת ישראל</notes>
+  <caseNum>נ/31</caseNum>
+</row-25>
+<row-26>
+  <num>27</num>
+  <name>ציון</name>
+  <fatherName>יחיא</fatherName>
+  <lastName>מוריסי</lastName>
+  <religion>תימן</religion>
+  <age>15 יום</age>
+  <notes>הועבר למשטרת ישראל</notes>
+  <caseNum>נ/32</caseNum>
+</row-26>
+<row-27>
+  <num>28</num>
+  <name>שמעה</name>
+  <fatherName>סלם</fatherName>
+  <lastName>סעדיה</lastName>
+  <religion>תימן</religion>
+  <age>5 ח</age>
+  <notes>הועבר למשטרת ישראל</notes>
+  <caseNum>נ/33</caseNum>
+</row-27>
+<row-28>
+  <num>29</num>
+  <name>קמר</name>
+  <fatherName>שלמה-אברהם</fatherName>
+  <lastName>סורה</lastName>
+  <religion>תימן</religion>
+  <age>2 ש</age>
+  <notes>נתקבל ממשטרת ישראל</notes>
+  <caseNum>נ/34</caseNum>
+</row-28>
+<row-29>
+  <num>30</num>
+  <name>שדרה</name>
+  <fatherName>שלום</fatherName>
+  <lastName>שייחי</lastName>
+  <religion>תימן</religion>
+  <age>4 ח</age>
+  <notes>נתקבל ממשטרת ישראל</notes>
+  <caseNum>נ/35</caseNum>
+</row-29>
+<row-30>
+  <num>31</num>
+  <name>אברהם</name>
+  <fatherName>סעדיה</fatherName>
+  <lastName>תנעמי</lastName>
+  <religion>תימן</religion>
+  <age>18 ח</age>
+  <notes>נתקבל ממשטרת ישראל</notes>
+  <caseNum>נ/36</caseNum>
+</row-30>
+<row-31>
+  <num>32</num>
+  <name>ציונה</name>
+  <fatherName>סעיד-סאלם</fatherName>
+  <lastName>יוסף</lastName>
+  <religion>תימן</religion>
+  <age>15 ח</age>
+  <notes>נתקבל ממשטרת ישראל</notes>
+  <caseNum>נ/37</caseNum>
+</row-31>
+<row-32>
+  <num>33</num>
+  <name>יעקב</name>
+  <fatherName>סעיד</fatherName>
+  <lastName>מדהלה</lastName>
+  <religion>תימן</religion>
+  <age>10 ח</age>
+  <notes>נתקבל ממשטרת ישראל</notes>
+  <caseNum>נ/38</caseNum>
+</row-32>
+<row-33>
+  <num>34</num>
+  <name>חנה</name>
+  <fatherName>נחום</fatherName>
+  <lastName>חלי</lastName>
+  <religion>עירק</religion>
+  <age>19 ש</age>
+  <notes>נתקבל ממשטרת ישראל</notes>
+  <caseNum>נ/39</caseNum>
+</row-33>
+<row-34>
+  <num>35</num>
+  <name>מנחם</name>
+  <fatherName>סעיד</fatherName>
+  <lastName>מליחי</lastName>
+  <religion>תימן</religion>
+  <age>2 ח</age>
+  <notes></notes>
+  <caseNum>נ/40</caseNum>
+</row-34>
+<row-35>
+  <num>36</num>
+  <name>יחיא</name>
+  <fatherName>יחיא</fatherName>
+  <lastName>לוי</lastName>
+  <religion>תימן</religion>
+  <age>7 ח</age>
+  <notes></notes>
+  <caseNum>נ/41</caseNum>
+</row-35>
+<row-36>
+  <num>37</num>
+  <name>נעמה</name>
+  <fatherName>אהרון</fatherName>
+  <lastName>כהן-מג'אר</lastName>
+  <religion>תימן</religion>
+  <age>8 ח</age>
+  <notes></notes>
+  <caseNum>נ/42</caseNum>
+</row-36>
+<row-37>
+  <num>38</num>
+  <name>חיים</name>
+  <fatherName>סעיד</fatherName>
+  <lastName>ג'מל-גיאת</lastName>
+  <religion>תימן</religion>
+  <age>1 ש</age>
+  <notes></notes>
+  <caseNum>נ/43</caseNum>
+</row-37>
+<row-38>
+  <num>39</num>
+  <name>שמאי</name>
+  <fatherName>יחיא</fatherName>
+  <lastName>עמר</lastName>
+  <religion>תימן</religion>
+  <age>18 ח</age>
+  <notes></notes>
+  <caseNum>נ/44</caseNum>
+</row-38>
+<row-39>
+  <num>40</num>
+  <name>סלם</name>
+  <fatherName>יחיא</fatherName>
+  <lastName>גרמה</lastName>
+  <religion>תימן</religion>
+  <age>5 ש</age>
+  <notes></notes>
+  <caseNum>נ/47</caseNum>
+</row-39>
+<row-40>
+  <num>41</num>
+  <name>חיים</name>
+  <fatherName>סלם</fatherName>
+  <lastName>מנצורה</lastName>
+  <religion>תימן</religion>
+  <age>6 ח</age>
+  <notes></notes>
+  <caseNum>נ/48</caseNum>
+</row-40>
+<row-41>
+  <num>42</num>
+  <name>זוהרה</name>
+  <fatherName>יוסף</fatherName>
+  <lastName>יאוה</lastName>
+  <religion>תימן</religion>
+  <age>3 ש</age>
+  <notes></notes>
+  <caseNum>נ/49</caseNum>
+</row-41>
+<row-42>
+  <num>43</num>
+  <name>סלם</name>
+  <fatherName>סלם</fatherName>
+  <lastName>מג'ער</lastName>
+  <religion>תימן</religion>
+  <age>18 ח</age>
+  <notes></notes>
+  <caseNum>נ/51</caseNum>
+</row-42>
+<row-43>
+  <num>44</num>
+  <name>סעדה</name>
+  <fatherName>אדיב</fatherName>
+  <lastName>ארעג</lastName>
+  <religion>תימן</religion>
+  <age>18 ח</age>
+  <notes></notes>
+  <caseNum>נ/52</caseNum>
+</row-43>
+<row-44>
+  <num>45</num>
+  <name>סלם</name>
+  <fatherName>יהודה</fatherName>
+  <lastName>אועד</lastName>
+  <religion>תימן</religion>
+  <age>6 ש</age>
+  <notes></notes>
+  <caseNum>נ/53</caseNum>
+</row-44>
+<row-45>
+  <num>46</num>
+  <name>רצון</name>
+  <fatherName>יחיא</fatherName>
+  <lastName>גוזי</lastName>
+  <religion>תימן</religion>
+  <age>3.5 ח</age>
+  <notes></notes>
+  <caseNum>נ/54</caseNum>
+</row-45>
+<row-46>
+  <num>47</num>
+  <name>נעמה</name>
+  <fatherName>דוד</fatherName>
+  <lastName>יחיא</lastName>
+  <religion>תימן</religion>
+  <age>4 ש</age>
+  <notes></notes>
+  <caseNum>נ/55</caseNum>
+</row-46>
+<row-47>
+  <num>48</num>
+  <name>זוהרה</name>
+  <fatherName>מאיר-דוד</fatherName>
+  <lastName>מנצור</lastName>
+  <religion>תימן</religion>
+  <age>7 ח</age>
+  <notes></notes>
+  <caseNum>נ/56</caseNum>
+</row-47>
+<row-48>
+  <num>49</num>
+  <name>זוהרה</name>
+  <fatherName>עוואד</fatherName>
+  <lastName>כתר</lastName>
+  <religion>תימן</religion>
+  <age>8 ח</age>
+  <notes></notes>
+  <caseNum>נ/57</caseNum>
+</row-48>
+<row-49>
+  <num>50</num>
+  <name>יוסף</name>
+  <fatherName>סלם</fatherName>
+  <lastName>זרף</lastName>
+  <religion>תימן</religion>
+  <age>1 ש</age>
+  <notes></notes>
+  <caseNum>נ/59</caseNum>
+</row-49>
+<row-50>
+  <num>51</num>
+  <name>שושנה</name>
+  <fatherName>יחיא-סלם</fatherName>
+  <lastName>נג'ר</lastName>
+  <religion>תימן</religion>
+  <age>2 ח</age>
+  <notes></notes>
+  <caseNum>נ/60</caseNum>
+</row-50>
+<row-51>
+  <num>52</num>
+  <name>ידידה</name>
+  <fatherName>חיים</fatherName>
+  <lastName>קרואה</lastName>
+  <religion>תימן</religion>
+  <age>9 ח</age>
+  <notes></notes>
+  <caseNum>נ/61</caseNum>
+</row-51>
+<row-52>
+  <num>53</num>
+  <name>ציונה</name>
+  <fatherName>אברהם</fatherName>
+  <lastName>חוברה</lastName>
+  <religion>תימן</religion>
+  <age>1 ש</age>
+  <notes></notes>
+  <caseNum>נ/62</caseNum>
+</row-52>
+<row-53>
+  <num>54</num>
+  <name>חממה</name>
+  <fatherName>סלימן-מחפוד</fatherName>
+  <lastName>חדד</lastName>
+  <religion>תימן</religion>
+  <age>3 ח</age>
+  <notes></notes>
+  <caseNum>נ/63</caseNum>
+</row-53>
+<row-54>
+  <num>55</num>
+  <name>אורה</name>
+  <fatherName>דוד</fatherName>
+  <lastName>עושרי</lastName>
+  <religion>תימן</religion>
+  <age>2 ח</age>
+  <notes></notes>
+  <caseNum>נ/64</caseNum>
+</row-54>
+<row-55>
+  <num>56</num>
+  <name>צלח</name>
+  <fatherName>סלם</fatherName>
+  <lastName>אהרון</lastName>
+  <religion>תימן</religion>
+  <age>2 ש</age>
+  <notes></notes>
+  <caseNum>נ/65</caseNum>
+</row-55>
+<row-56>
+  <num>57</num>
+  <name>צדקה</name>
+  <fatherName>מחפוד</fatherName>
+  <lastName>גרופי</lastName>
+  <religion>תימן</religion>
+  <age>8 ש</age>
+  <notes></notes>
+  <caseNum>נ/66</caseNum>
+</row-56>
+<row-57>
+  <num>58</num>
+  <name>יוכבד</name>
+  <fatherName>דוד</fatherName>
+  <lastName>חג'בי</lastName>
+  <religion>תימן</religion>
+  <age>2 ח</age>
+  <notes></notes>
+  <caseNum>נ/67</caseNum>
+</row-57>
+<row-58>
+  <num>59</num>
+  <name>שמעון</name>
+  <fatherName>סלימן</fatherName>
+  <lastName>חדד</lastName>
+  <religion>תימן</religion>
+  <age>2 ש</age>
+  <notes></notes>
+  <caseNum>נ/68</caseNum>
+</row-58>
+<row-59>
+  <num>60</num>
+  <name>-</name>
+  <fatherName>יחיא</fatherName>
+  <lastName>עומיסי</lastName>
+  <religion>תימן</religion>
+  <age>1 יום</age>
+  <notes></notes>
+  <caseNum>נ/69</caseNum>
+</row-59>
+<row-60>
+  <num>61</num>
+  <name>אברהם</name>
+  <fatherName>דוד</fatherName>
+  <lastName>סאלם</lastName>
+  <religion>תימן</religion>
+  <age>10 ח</age>
+  <notes></notes>
+  <caseNum>נ/71</caseNum>
+</row-60>
+<row-61>
+  <num>62</num>
+  <name>ציון</name>
+  <fatherName>יעיש</fatherName>
+  <lastName>נחום</lastName>
+  <religion>תימן</religion>
+  <age>6 יום</age>
+  <notes></notes>
+  <caseNum>נ/73</caseNum>
+</row-61>
+<row-62>
+  <num>63</num>
+  <name>נעמי</name>
+  <fatherName>אהרון</fatherName>
+  <lastName>טיירי</lastName>
+  <religion>תימן</religion>
+  <age>4 ש</age>
+  <notes></notes>
+  <caseNum>נ/74</caseNum>
+</row-62>
+<row-63>
+  <num>64</num>
+  <name>מרים</name>
+  <fatherName>דוד</fatherName>
+  <lastName>שוקר</lastName>
+  <religion>תימן</religion>
+  <age>18 ש</age>
+  <notes></notes>
+  <caseNum>נ/75</caseNum>
+</row-63>
+<row-64>
+  <num>65</num>
+  <name>הרצל</name>
+  <fatherName>אהרון</fatherName>
+  <lastName>אהרוני</lastName>
+  <religion>עירק</religion>
+  <age>10 ח</age>
+  <notes></notes>
+  <caseNum>נ/76</caseNum>
+</row-64>
+<row-65>
+  <num>66</num>
+  <name>רחל</name>
+  <fatherName>ציון</fatherName>
+  <lastName>פרג'</lastName>
+  <religion>טריפולי</religion>
+  <age>15 יום</age>
+  <notes></notes>
+  <caseNum>נ/77</caseNum>
+</row-65>
+<row-66>
+  <num>67</num>
+  <name>אברהם</name>
+  <fatherName>סולימן</fatherName>
+  <lastName>חדד</lastName>
+  <religion>תימן</religion>
+  <age>18 ח</age>
+  <notes></notes>
+  <caseNum>נ/78</caseNum>
+</row-66>
+<row-67>
+  <num>68</num>
+  <name>אבנר</name>
+  <fatherName>יחיא</fatherName>
+  <lastName>חעיזי</lastName>
+  <religion>תימן</religion>
+  <age>5 ח</age>
+  <notes></notes>
+  <caseNum>נ/80</caseNum>
+</row-67>
+<row-68>
+  <num>69</num>
+  <name>מנחם</name>
+  <fatherName>דוד</fatherName>
+  <lastName>עוזרי</lastName>
+  <religion>תימן</religion>
+  <age>5 ח</age>
+  <notes></notes>
+  <caseNum>נ/81</caseNum>
+</row-68>
+<row-69>
+  <num>70</num>
+  <name>דוד</name>
+  <fatherName>אברהם</fatherName>
+  <lastName>סניאני</lastName>
+  <religion>תימן</religion>
+  <age>1 ח</age>
+  <notes></notes>
+  <caseNum>נ/82</caseNum>
+</row-69>
+<row-70>
+  <num>71</num>
+  <name>יהודה</name>
+  <fatherName>אברהם</fatherName>
+  <lastName>סניאני</lastName>
+  <religion>תימן</religion>
+  <age>5 ש</age>
+  <notes></notes>
+  <caseNum>נ/83</caseNum>
+</row-70>
+<row-71>
+  <num>72</num>
+  <name>סלם</name>
+  <fatherName>סלם</fatherName>
+  <lastName>ג'מילי</lastName>
+  <religion>תימן</religion>
+  <age>2 ש</age>
+  <notes></notes>
+  <caseNum>נ/84</caseNum>
+</row-71>
+<row-72>
+  <num>73</num>
+  <name>שולמית</name>
+  <fatherName>יחיא</fatherName>
+  <lastName>שרעבי</lastName>
+  <religion>תימן</religion>
+  <age>7 ח</age>
+  <notes></notes>
+  <caseNum>נ/85</caseNum>
+</row-72>
+<row-73>
+  <num>74</num>
+  <name>משה</name>
+  <fatherName>שלום</fatherName>
+  <lastName>משרקי</lastName>
+  <religion>תימן</religion>
+  <age>5 ח</age>
+  <notes></notes>
+  <caseNum>נ/86</caseNum>
+</row-73>
+<row-74>
+  <num>75</num>
+  <name>שמעון</name>
+  <fatherName>סלימן</fatherName>
+  <lastName>דהרי</lastName>
+  <religion>תימן</religion>
+  <age>1 יום</age>
+  <notes></notes>
+  <caseNum>נ/87</caseNum>
+</row-74>
+<row-75>
+  <num>76</num>
+  <name>ציונה</name>
+  <fatherName>שלום</fatherName>
+  <lastName>משרקי</lastName>
+  <religion>תימן</religion>
+  <age>5 ח</age>
+  <notes></notes>
+  <caseNum>נ/89</caseNum>
+</row-75>
+<row-76>
+  <num>77</num>
+  <name>נפל</name>
+  <fatherName>מוסה</fatherName>
+  <lastName>סיאני</lastName>
+  <religion>תימן</religion>
+  <age>-</age>
+  <notes></notes>
+  <caseNum>נ/90</caseNum>
+</row-76>
+<row-77>
+  <num>78</num>
+  <name>ציון</name>
+  <fatherName>סלם</fatherName>
+  <lastName>באסל</lastName>
+  <religion>תימן</religion>
+  <age>4 יום</age>
+  <notes></notes>
+  <caseNum>נ/91</caseNum>
+</row-77>
+<row-78>
+  <num>79</num>
+  <name>רומיה</name>
+  <fatherName>יעקב</fatherName>
+  <lastName>ינעי</lastName>
+  <religion>תימן</religion>
+  <age>3 ח</age>
+  <notes></notes>
+  <caseNum>נ/93</caseNum>
+</row-78>
+<row-79>
+  <num>80</num>
+  <name>רחל</name>
+  <fatherName>מנחם</fatherName>
+  <lastName>סעדי</lastName>
+  <religion>תימן</religion>
+  <age>20 ש</age>
+  <notes></notes>
+  <caseNum>נ/95</caseNum>
+</row-79>
+<row-80>
+  <num>81</num>
+  <name>צביה</name>
+  <fatherName>יחיא</fatherName>
+  <lastName>הינדי</lastName>
+  <religion>תימן</religion>
+  <age>1 ש</age>
+  <notes></notes>
+  <caseNum>נ/96</caseNum>
+</row-80>
+<row-81>
+  <num>82</num>
+  <name>משה</name>
+  <fatherName>יהודה</fatherName>
+  <lastName>עומיסי</lastName>
+  <religion>תימן</religion>
+  <age>10 ח</age>
+  <notes></notes>
+  <caseNum>נ/97</caseNum>
+</row-81>
+<row-82>
+  <num>83</num>
+  <name>יחיעם</name>
+  <fatherName>סלם</fatherName>
+  <lastName>אפגין</lastName>
+  <religion>תימן</religion>
+  <age>3 ח</age>
+  <notes></notes>
+  <caseNum>נ/98</caseNum>
+</row-82>
+<row-83>
+  <num>84</num>
+  <name>תורכיה</name>
+  <fatherName>חיים</fatherName>
+  <lastName>דאר</lastName>
+  <religion>תימן</religion>
+  <age>2 ש</age>
+  <notes></notes>
+  <caseNum>נ/99</caseNum>
+</row-83>
+<row-84>
+  <num>85</num>
+  <name>יחיא</name>
+  <fatherName>אהרון</fatherName>
+  <lastName>כורש</lastName>
+  <religion>תימן</religion>
+  <age>4 ח</age>
+  <notes></notes>
+  <caseNum>נ/100</caseNum>
+</row-84>
+<row-85>
+  <num>86</num>
+  <name>לאה</name>
+  <fatherName>שמואל</fatherName>
+  <lastName>סלם</lastName>
+  <religion>תימן</religion>
+  <age>3.5 ש</age>
+  <notes></notes>
+  <caseNum>נ/101</caseNum>
+</row-85>
+<row-86>
+  <num>87</num>
+  <name>שמעה</name>
+  <fatherName>אברהם</fatherName>
+  <lastName>גברה</lastName>
+  <religion>תימן</religion>
+  <age>2 ש</age>
+  <notes></notes>
+  <caseNum>נ/102</caseNum>
+</row-86>
+<row-87>
+  <num>88</num>
+  <name>מאיר</name>
+  <fatherName>שאול</fatherName>
+  <lastName>מחנה</lastName>
+  <religion>תימן</religion>
+  <age>8 ח</age>
+  <notes></notes>
+  <caseNum>נ/104</caseNum>
+</row-87>
+<row-88>
+  <num>89</num>
+  <name>אברהם</name>
+  <fatherName>יחיא</fatherName>
+  <lastName>סיאני</lastName>
+  <religion>תימן</religion>
+  <age>6 ש</age>
+  <notes></notes>
+  <caseNum>נ/105</caseNum>
+</row-88>
+<row-89>
+  <num>90</num>
+  <name>ציון</name>
+  <fatherName>יחיא</fatherName>
+  <lastName>גהרי</lastName>
+  <religion>תימן</religion>
+  <age>21 יום</age>
+  <notes></notes>
+  <caseNum>נ/107</caseNum>
+</row-89>
+<row-90>
+  <num>91</num>
+  <name>שמעון</name>
+  <fatherName>חיים</fatherName>
+  <lastName>זגור</lastName>
+  <religion>תימן</religion>
+  <age>3 ח</age>
+  <notes></notes>
+  <caseNum>נ/108</caseNum>
+</row-90>
+<row-91>
+  <num>92</num>
+  <name>דני</name>
+  <fatherName>אברהם</fatherName>
+  <lastName>שוקר</lastName>
+  <religion>תימן</religion>
+  <age>7 ח</age>
+  <notes></notes>
+  <caseNum>נ/109</caseNum>
+</row-91>
+<row-92>
+  <num>93</num>
+  <name>ציון</name>
+  <fatherName>סלם</fatherName>
+  <lastName>צלח</lastName>
+  <religion>תימן</religion>
+  <age>7 יום</age>
+  <notes></notes>
+  <caseNum>נ/110</caseNum>
+</row-92>
+<row-93>
+  <num>94</num>
+  <name>זוהרה</name>
+  <fatherName>יחיא</fatherName>
+  <lastName>צברי</lastName>
+  <religion>תימן</religion>
+  <age>13 ש</age>
+  <notes></notes>
+  <caseNum>נ/111</caseNum>
+</row-93>
+<row-94>
+  <num>95</num>
+  <name>שמעה</name>
+  <fatherName>בנימין</fatherName>
+  <lastName>ריזיקיאן</lastName>
+  <religion>תימן</religion>
+  <age>2 ש</age>
+  <notes></notes>
+  <caseNum>נ/112</caseNum>
+</row-94>
+<row-95>
+  <num>96</num>
+  <name>יוסף</name>
+  <fatherName>סעיד</fatherName>
+  <lastName>חזי</lastName>
+  <religion>תימן</religion>
+  <age>4 ח</age>
+  <notes></notes>
+  <caseNum>נ/113</caseNum>
+</row-95>
+<row-96>
+  <num>97</num>
+  <name>ציון</name>
+  <fatherName>יחיא</fatherName>
+  <lastName>חבני</lastName>
+  <religion>תימן</religion>
+  <age>3 שבוע</age>
+  <notes></notes>
+  <caseNum>נ/114</caseNum>
+</row-96>
+<row-97>
+  <num>98</num>
+  <name>דליה</name>
+  <fatherName>יחיאל</fatherName>
+  <lastName>צדוק</lastName>
+  <religion>תימן</religion>
+  <age>1 ח</age>
+  <notes></notes>
+  <caseNum>נ/115</caseNum>
+</row-97>
+<row-98>
+  <num>99</num>
+  <name>צביה</name>
+  <fatherName>יחיא</fatherName>
+  <lastName>יהודה</lastName>
+  <religion>תימן</religion>
+  <age>2 ש</age>
+  <notes></notes>
+  <caseNum>נ/116</caseNum>
+</row-98>
+<row-99>
+  <num>100</num>
+  <name>אסתר</name>
+  <fatherName>יהודה</fatherName>
+  <lastName>סיאני</lastName>
+  <religion>תימן</religion>
+  <age>1 ש</age>
+  <notes></notes>
+  <caseNum>נ/117</caseNum>
+</row-99>
+<row-100>
+  <num>101</num>
+  <name>רומיה</name>
+  <fatherName>יחיא</fatherName>
+  <lastName>רייבי</lastName>
+  <religion>תימן</religion>
+  <age>4 ח</age>
+  <notes></notes>
+  <caseNum>נ/118</caseNum>
+</row-100>
+<row-101>
+  <num>102</num>
+  <name>שלום</name>
+  <fatherName>סלם</fatherName>
+  <lastName>כועי</lastName>
+  <religion>תימן</religion>
+  <age>10 ח</age>
+  <notes></notes>
+  <caseNum>נ/119</caseNum>
+</row-101>
+<row-102>
+  <num>103</num>
+  <name>יוסף</name>
+  <fatherName>בדרה</fatherName>
+  <lastName>ג'סי</lastName>
+  <religion>תימן</religion>
+  <age>18 יום</age>
+  <notes></notes>
+  <caseNum>נ/120</caseNum>
+</row-102>
+<row-103>
+  <num>104</num>
+  <name>מלכה</name>
+  <fatherName>יהודה</fatherName>
+  <lastName>חסן</lastName>
+  <religion>תימן</religion>
+  <age>2 ש</age>
+  <notes></notes>
+  <caseNum>נ/121</caseNum>
+</row-103>
+<row-104>
+  <num>105</num>
+  <name>-</name>
+  <fatherName>שלם</fatherName>
+  <lastName>מליחי</lastName>
+  <religion>תימן</religion>
+  <age>נפל</age>
+  <notes></notes>
+  <caseNum>נ/124</caseNum>
+</row-104>
+<row-105>
+  <num>106</num>
+  <name>רחמים</name>
+  <fatherName>יחיא</fatherName>
+  <lastName>חרזי</lastName>
+  <religion>תימן</religion>
+  <age>2 ש</age>
+  <notes></notes>
+  <caseNum>נ/125</caseNum>
+</row-105>
+<row-106>
+  <num>107</num>
+  <name>-</name>
+  <fatherName>סלח</fatherName>
+  <lastName>מדמון</lastName>
+  <religion>תימן</religion>
+  <age>נפל</age>
+  <notes></notes>
+  <caseNum>נ/126</caseNum>
+</row-106>
+<row-107>
+  <num>108</num>
+  <name>יפה</name>
+  <fatherName>יוסף</fatherName>
+  <lastName>טביב</lastName>
+  <religion>תימן</religion>
+  <age>3 ח</age>
+  <notes></notes>
+  <caseNum>נ/127</caseNum>
+</row-107>
+<row-108>
+  <num>109</num>
+  <name>3 נפלים</name>
+  <fatherName>אהרון</fatherName>
+  <lastName>דנון</lastName>
+  <religion>תימן</religion>
+  <age>-</age>
+  <notes>שלישיה שנפטרה מיד לאחר הלידה ונקברה בקבר אחד</notes>
+  <caseNum>נ/106</caseNum>
+</row-108>
+<row-109>
+  <num>110</num>
+  <name>ניצה</name>
+  <fatherName>יוסף</fatherName>
+  <lastName>טביב</lastName>
+  <religion>תימן</religion>
+  <age>6 ח</age>
+  <notes></notes>
+  <caseNum>נ/128</caseNum>
+</row-109>
+<row-110>
+  <num>111</num>
+  <name>ברכה</name>
+  <fatherName>עוואד</fatherName>
+  <lastName>מנחם</lastName>
+  <religion>תימן</religion>
+  <age>8 יום</age>
+  <notes></notes>
+  <caseNum>נ/129</caseNum>
+</row-110>
+<row-111>
+  <num>112</num>
+  <name>חנה</name>
+  <fatherName>אשר</fatherName>
+  <lastName>כראזי</lastName>
+  <religion>פרס</religion>
+  <age>6 ח</age>
+  <notes></notes>
+  <caseNum>נ/130</caseNum>
+</row-111>
+<row-112>
+  <num>113</num>
+  <name>איבלין</name>
+  <fatherName>עזרא</fatherName>
+  <lastName>שמש</lastName>
+  <religion>עירק</religion>
+  <age>7 ח</age>
+  <notes></notes>
+  <caseNum>נ/131</caseNum>
+</row-112>
+<row-113>
+  <num>114</num>
+  <name>מרים</name>
+  <fatherName>שלמה</fatherName>
+  <lastName>עדני</lastName>
+  <religion>תימן</religion>
+  <age>10 ח</age>
+  <notes></notes>
+  <caseNum>נ/132</caseNum>
+</row-113>
+<row-114>
+  <num>115</num>
+  <name>מזל</name>
+  <fatherName>יחיא</fatherName>
+  <lastName>גמל</lastName>
+  <religion>תימן</religion>
+  <age>66 יום</age>
+  <notes></notes>
+  <caseNum>נ/134</caseNum>
+</row-114>
+<row-115>
+  <num>116</num>
+  <name>ציון</name>
+  <fatherName>נסים</fatherName>
+  <lastName>הרזי</lastName>
+  <religion>תימן</religion>
+  <age>3 ח</age>
+  <notes></notes>
+  <caseNum>נ/135</caseNum>
+</row-115>
+<row-116>
+  <num>117</num>
+  <name>שושנה</name>
+  <fatherName>יחיא</fatherName>
+  <lastName>מדמוני</lastName>
+  <religion>תימן</religion>
+  <age>5 ח</age>
+  <notes></notes>
+  <caseNum>נ/136</caseNum>
+</row-116>
+<row-117>
+  <num>118</num>
+  <name>עזרא</name>
+  <fatherName>אהרון</fatherName>
+  <lastName>זודי</lastName>
+  <religion>תימן</religion>
+  <age>2 ח</age>
+  <notes></notes>
+  <caseNum>נ/137</caseNum>
+</row-117>
+<row-118>
+  <num>119</num>
+  <name>ציון</name>
+  <fatherName>יחיא</fatherName>
+  <lastName>נג'ימה</lastName>
+  <religion>תימן</religion>
+  <age>1 ח</age>
+  <notes></notes>
+  <caseNum>נ/138</caseNum>
+</row-118>
+<row-119>
+  <num>120</num>
+  <name>שמעה</name>
+  <fatherName>סלם</fatherName>
+  <lastName>אבדר</lastName>
+  <religion>תימן</religion>
+  <age>18 ח</age>
+  <notes></notes>
+  <caseNum>נ/139</caseNum>
+</row-119>
+<row-120>
+  <num>121</num>
+  <name>ציון</name>
+  <fatherName>חיים</fatherName>
+  <lastName>כהן</lastName>
+  <religion>תימן</religion>
+  <age>1 ש</age>
+  <notes></notes>
+  <caseNum>נ/140</caseNum>
+</row-120>
+<row-121>
+  <num>122</num>
+  <name>טוב</name>
+  <fatherName>יוסף</fatherName>
+  <lastName>אברהם</lastName>
+  <religion>תימן</religion>
+  <age>1 שבוע</age>
+  <notes></notes>
+  <caseNum>נ/142</caseNum>
+</row-121>
+<row-122>
+  <num>123</num>
+  <name>כדיעה</name>
+  <fatherName>אשת יוסף</fatherName>
+  <lastName>אברהם</lastName>
+  <religion>תימן</religion>
+  <age>20 ש</age>
+  <notes></notes>
+  <caseNum>נ/359</caseNum>
+</row-122>
+<row-123>
+  <num>124</num>
+  <name>ציונה</name>
+  <fatherName>סלם</fatherName>
+  <lastName>גיאת</lastName>
+  <religion>תימן</religion>
+  <age>18 יום</age>
+  <notes></notes>
+  <caseNum>נ/143</caseNum>
+</row-123>
+<row-124>
+  <num>125</num>
+  <name>אסתר</name>
+  <fatherName>יחיא</fatherName>
+  <lastName>מנג'ם</lastName>
+  <religion>תימן</religion>
+  <age>1 ח</age>
+  <notes></notes>
+  <caseNum>נ/144</caseNum>
+</row-124>
+<row-125>
+  <num>126</num>
+  <name>אברהם</name>
+  <fatherName>סעד</fatherName>
+  <lastName>משרקי</lastName>
+  <religion>תימן</religion>
+  <age>4 ח</age>
+  <notes></notes>
+  <caseNum>נ/145</caseNum>
+</row-125>
+<row-126>
+  <num>127</num>
+  <name>יחיא</name>
+  <fatherName>יחיא</fatherName>
+  <lastName>מעודה</lastName>
+  <religion>תימן</religion>
+  <age>7 ח</age>
+  <notes></notes>
+  <caseNum>נ/146</caseNum>
+</row-126>
+<row-127>
+  <num>128</num>
+  <name>צביה</name>
+  <fatherName>משה</fatherName>
+  <lastName>גרמה</lastName>
+  <religion>תימן</religion>
+  <age>1 ח</age>
+  <notes></notes>
+  <caseNum>נ/147</caseNum>
+</row-127>
+<row-128>
+  <num>129</num>
+  <name>הרצל</name>
+  <fatherName>משה</fatherName>
+  <lastName>חוקימה</lastName>
+  <religion>אפגניסטן</religion>
+  <age>9 ח</age>
+  <notes></notes>
+  <caseNum>נ/148</caseNum>
+</row-128>
+<row-129>
+  <num>130</num>
+  <name>יחיא</name>
+  <fatherName>סלם</fatherName>
+  <lastName>סמון</lastName>
+  <religion>תימן</religion>
+  <age>4 ש</age>
+  <notes></notes>
+  <caseNum>נ/149</caseNum>
+</row-129>
+<row-130>
+  <num>131</num>
+  <name>שמעון</name>
+  <fatherName>דמה</fatherName>
+  <lastName>נדף</lastName>
+  <religion>תימן</religion>
+  <age>14 ח</age>
+  <notes></notes>
+  <caseNum>נ/150</caseNum>
+</row-130>
+<row-131>
+  <num>132</num>
+  <name>אברהם</name>
+  <fatherName>סולימן</fatherName>
+  <lastName>יעקב</lastName>
+  <religion>תימן</religion>
+  <age>1 ש</age>
+  <notes></notes>
+  <caseNum>נ/151</caseNum>
+</row-131>
+<row-132>
+  <num>133</num>
+  <name>שמעון</name>
+  <fatherName>סולימן</fatherName>
+  <lastName>עטרי</lastName>
+  <religion>תימן</religion>
+  <age>29 יום</age>
+  <notes></notes>
+  <caseNum>נ/152</caseNum>
+</row-132>
+<row-133>
+  <num>134</num>
+  <name>סלם</name>
+  <fatherName>יחיא</fatherName>
+  <lastName>קומימי</lastName>
+  <religion>תימן</religion>
+  <age>2 ש</age>
+  <notes></notes>
+  <caseNum>נ/154</caseNum>
+</row-133>
+<row-134>
+  <num>135</num>
+  <name>-</name>
+  <fatherName>סלם</fatherName>
+  <lastName>סמרי</lastName>
+  <religion>תימן</religion>
+  <age>נפל</age>
+  <notes></notes>
+  <caseNum>נ/155</caseNum>
+</row-134>
+<row-135>
+  <num>136</num>
+  <name>אביבה</name>
+  <fatherName>מאיר</fatherName>
+  <lastName>שורר</lastName>
+  <religion>תימן</religion>
+  <age>10 ח</age>
+  <notes></notes>
+  <caseNum>נ/156</caseNum>
+</row-135>
+<row-136>
+  <num>137</num>
+  <name>-</name>
+  <fatherName>סולימן</fatherName>
+  <lastName>מעודה</lastName>
+  <religion>תימן</religion>
+  <age>נפל</age>
+  <notes></notes>
+  <caseNum>נ/157</caseNum>
+</row-136>
+<row-137>
+  <num>138</num>
+  <name>ציונה</name>
+  <fatherName>יוסף</fatherName>
+  <lastName>בלס</lastName>
+  <religion>תימן</religion>
+  <age>2.5 ח</age>
+  <notes></notes>
+  <caseNum>נ/158</caseNum>
+</row-137>
+<row-138>
+  <num>139</num>
+  <name>סעיד</name>
+  <fatherName>סלימן</fatherName>
+  <lastName>נג'אר</lastName>
+  <religion>תימן</religion>
+  <age>2-3 ש</age>
+  <notes></notes>
+  <caseNum>נ/159</caseNum>
+</row-138>
+<row-139>
+  <num>140</num>
+  <name>מסלם</name>
+  <fatherName>יחיא</fatherName>
+  <lastName>מדר</lastName>
+  <religion>תימן</religion>
+  <age>2 ח</age>
+  <notes></notes>
+  <caseNum>נ/160</caseNum>
+</row-139>
+<row-140>
+  <num>141</num>
+  <name>שמואל</name>
+  <fatherName>יוסף</fatherName>
+  <lastName>חמדי</lastName>
+  <religion>תימן</religion>
+  <age>2 ש</age>
+  <notes></notes>
+  <caseNum>נ/161</caseNum>
+</row-140>
+<row-141>
+  <num>142</num>
+  <name>רחל</name>
+  <fatherName>יוסף</fatherName>
+  <lastName>מינס</lastName>
+  <religion>תימן</religion>
+  <age>נפל</age>
+  <notes></notes>
+  <caseNum>נ/162</caseNum>
+</row-141>
+<row-142>
+  <num>143</num>
+  <name>צבי</name>
+  <fatherName>יחיא</fatherName>
+  <lastName>משה</lastName>
+  <religion>תימן</religion>
+  <age>1.5 ח</age>
+  <notes></notes>
+  <caseNum>נ/164</caseNum>
+</row-142>
+<row-143>
+  <num>144</num>
+  <name>ציונה</name>
+  <fatherName>יחיא</fatherName>
+  <lastName>בוסי</lastName>
+  <religion>עירק</religion>
+  <age>נפל</age>
+  <notes></notes>
+  <caseNum>נ/166</caseNum>
+</row-143>
+<row-144>
+  <num>145</num>
+  <name>-</name>
+  <fatherName>יחיא</fatherName>
+  <lastName>בוסי</lastName>
+  <religion>תימן</religion>
+  <age>נפל</age>
+  <notes></notes>
+  <caseNum>נ/166</caseNum>
+</row-144>
+<row-145>
+  <num>146</num>
+  <name>יוסף</name>
+  <fatherName>יחיא</fatherName>
+  <lastName>עוקבי</lastName>
+  <religion>תימן</religion>
+  <age>3 ח</age>
+  <notes></notes>
+  <caseNum>נ/167</caseNum>
+</row-145>
+<row-146>
+  <num>147</num>
+  <name>ציון</name>
+  <fatherName>סלם</fatherName>
+  <lastName>קרחה</lastName>
+  <religion>תימן</religion>
+  <age>1 ח</age>
+  <notes></notes>
+  <caseNum>נ/168</caseNum>
+</row-146>
+<row-147>
+  <num>148</num>
+  <name>נדרה</name>
+  <fatherName>יהודה</fatherName>
+  <lastName>לוי</lastName>
+  <religion>תימן</religion>
+  <age>2 ש</age>
+  <notes></notes>
+  <caseNum>נ/169</caseNum>
+</row-147>
+<row-148>
+  <num>149</num>
+  <name>דניאל</name>
+  <fatherName>יחיא</fatherName>
+  <lastName>יונה</lastName>
+  <religion>תימן</religion>
+  <age>15 יום</age>
+  <notes></notes>
+  <caseNum>נ/170</caseNum>
+</row-148>
+<row-149>
+  <num>150</num>
+  <name>סלם</name>
+  <fatherName>יחיא</fatherName>
+  <lastName>חלא</lastName>
+  <religion>תימן</religion>
+  <age>2 ש</age>
+  <notes></notes>
+  <caseNum>נ/171</caseNum>
+</row-149>
+<row-150>
+  <num>151</num>
+  <name>גוריון</name>
+  <fatherName>חיים</fatherName>
+  <lastName>ג'רפי</lastName>
+  <religion>תימן</religion>
+  <age>3.5 ח</age>
+  <notes></notes>
+  <caseNum>נ/172</caseNum>
+</row-150>
+<row-151>
+  <num>152</num>
+  <name>דוד</name>
+  <fatherName>חסן</fatherName>
+  <lastName>שרעבי</lastName>
+  <religion>תימן</religion>
+  <age>2.5 ש</age>
+  <notes></notes>
+  <caseNum>נ/173</caseNum>
+</row-151>
+<row-152>
+  <num>153</num>
+  <name>קומש</name>
+  <fatherName>זכריה</fatherName>
+  <lastName>מג'ר</lastName>
+  <religion>תימן</religion>
+  <age>5 ש</age>
+  <notes></notes>
+  <caseNum>נ/174</caseNum>
+</row-152>
+<row-153>
+  <num>154</num>
+  <name>דינה</name>
+  <fatherName>סולימן</fatherName>
+  <lastName>מועלם</lastName>
+  <religion>תימן</religion>
+  <age>15 ח</age>
+  <notes></notes>
+  <caseNum>נ/175</caseNum>
+</row-153>
+<row-154>
+  <num>155</num>
+  <name>שלמה</name>
+  <fatherName>יחיא</fatherName>
+  <lastName>גורש</lastName>
+  <religion>תימן</religion>
+  <age>8 ח</age>
+  <notes></notes>
+  <caseNum>נ/176</caseNum>
+</row-154>
+<row-155>
+  <num>156</num>
+  <name>מזל</name>
+  <fatherName>יחיא</fatherName>
+  <lastName>קראוני</lastName>
+  <religion>תימן</religion>
+  <age>14 יום</age>
+  <notes></notes>
+  <caseNum>נ/177</caseNum>
+</row-155>
+<row-156>
+  <num>157</num>
+  <name>שושנה</name>
+  <fatherName>שלמה</fatherName>
+  <lastName>מרחבי</lastName>
+  <religion>תימן</religion>
+  <age>1 ש</age>
+  <notes></notes>
+  <caseNum>נ/178</caseNum>
+</row-156>
+<row-157>
+  <num>158</num>
+  <name>מחפוד</name>
+  <fatherName>שלום</fatherName>
+  <lastName>כהן</lastName>
+  <religion>תימן</religion>
+  <age>4 ח</age>
+  <notes></notes>
+  <caseNum>נ/179</caseNum>
+</row-157>
+<row-158>
+  <num>159</num>
+  <name>סעדה</name>
+  <fatherName>אברהם</fatherName>
+  <lastName>ישראל</lastName>
+  <religion>תימן</religion>
+  <age>4 ח</age>
+  <notes></notes>
+  <caseNum>נ/180</caseNum>
+</row-158>
+<row-159>
+  <num>160</num>
+  <name>זכריה</name>
+  <fatherName>ניסים</fatherName>
+  <lastName>פדאל</lastName>
+  <religion>תימן</religion>
+  <age>2 ח</age>
+  <notes></notes>
+  <caseNum>נ/182</caseNum>
+</row-159>
+<row-160>
+  <num>161</num>
+  <name>ישראל</name>
+  <fatherName>יחיא</fatherName>
+  <lastName>חג'בי</lastName>
+  <religion>תימן</religion>
+  <age>11 ח</age>
+  <notes></notes>
+  <caseNum>נ/183</caseNum>
+</row-160>
+<row-161>
+  <num>162</num>
+  <name>זכריה</name>
+  <fatherName>משה</fatherName>
+  <lastName>אברהם</lastName>
+  <religion>תימן</religion>
+  <age>3 שבוע</age>
+  <notes></notes>
+  <caseNum>נ/184</caseNum>
+</row-161>
+<row-162>
+  <num>163</num>
+  <name>צביה</name>
+  <fatherName>סלם</fatherName>
+  <lastName>ג'רופי</lastName>
+  <religion>תימן</religion>
+  <age>3.5 ש</age>
+  <notes></notes>
+  <caseNum>נ/185</caseNum>
+</row-162>
+<row-163>
+  <num>164</num>
+  <name>ציונה</name>
+  <fatherName>דוד</fatherName>
+  <lastName>הינדי</lastName>
+  <religion>תימן</religion>
+  <age>18 יום</age>
+  <notes></notes>
+  <caseNum>נ/187</caseNum>
+</row-163>
+<row-164>
+  <num>165</num>
+  <name>שרה</name>
+  <fatherName>סעדיה</fatherName>
+  <lastName>חרד</lastName>
+  <religion>תימן</religion>
+  <age>14 יום</age>
+  <notes></notes>
+  <caseNum>נ/188</caseNum>
+</row-164>
+<row-165>
+  <num>166</num>
+  <name>בנימין</name>
+  <fatherName>ראובן</fatherName>
+  <lastName>דהרי</lastName>
+  <religion>תימן</religion>
+  <age>3 ח</age>
+  <notes></notes>
+  <caseNum>נ/189</caseNum>
+</row-165>
+<row-166>
+  <num>167</num>
+  <name></name>
+  <fatherName></fatherName>
+  <lastName></lastName>
+  <religion></religion>
+  <age></age>
+  <notes></notes>
+  <caseNum></caseNum>
+</row-166>
+<row-167>
+  <num>168</num>
+  <name></name>
+  <fatherName></fatherName>
+  <lastName></lastName>
+  <religion></religion>
+  <age></age>
+  <notes></notes>
+  <caseNum></caseNum>
+</row-167>
+<row-168>
+  <num>169</num>
+  <name></name>
+  <fatherName></fatherName>
+  <lastName></lastName>
+  <religion></religion>
+  <age></age>
+  <notes></notes>
+  <caseNum></caseNum>
+</row-168>
+<row-169>
+  <num>170</num>
+  <name></name>
+  <fatherName></fatherName>
+  <lastName></lastName>
+  <religion></religion>
+  <age></age>
+  <notes></notes>
+  <caseNum></caseNum>
+</row-169>
+<row-170>
+  <num>171</num>
+  <name></name>
+  <fatherName></fatherName>
+  <lastName></lastName>
+  <religion></religion>
+  <age></age>
+  <notes></notes>
+  <caseNum></caseNum>
+</row-170>
+<row-171>
+  <num>172</num>
+  <name></name>
+  <fatherName></fatherName>
+  <lastName></lastName>
+  <religion></religion>
+  <age></age>
+  <notes></notes>
+  <caseNum></caseNum>
+</row-171>
+<row-172>
+  <num>173</num>
+  <name></name>
+  <fatherName></fatherName>
+  <lastName></lastName>
+  <religion></religion>
+  <age></age>
+  <notes></notes>
+  <caseNum></caseNum>
+</row-172>
+<row-173>
+  <num>174</num>
+  <name></name>
+  <fatherName></fatherName>
+  <lastName></lastName>
+  <religion></religion>
+  <age></age>
+  <notes></notes>
+  <caseNum></caseNum>
+</row-173>
+<row-174>
+  <num>175</num>
+  <name></name>
+  <fatherName></fatherName>
+  <lastName></lastName>
+  <religion></religion>
+  <age></age>
+  <notes></notes>
+  <caseNum></caseNum>
+</row-174>
+<row-175>
+  <num>176</num>
+  <name></name>
+  <fatherName></fatherName>
+  <lastName></lastName>
+  <religion></religion>
+  <age></age>
+  <notes></notes>
+  <caseNum></caseNum>
+</row-175>
+<row-176>
+  <num>177</num>
+  <name></name>
+  <fatherName></fatherName>
+  <lastName></lastName>
+  <religion></religion>
+  <age></age>
+  <notes></notes>
+  <caseNum></caseNum>
+</row-176>
+<row-177>
+  <num>178</num>
+  <name></name>
+  <fatherName></fatherName>
+  <lastName></lastName>
+  <religion></religion>
+  <age></age>
+  <notes></notes>
+  <caseNum></caseNum>
+</row-177>
+<row-178>
+  <num>179</num>
+  <name></name>
+  <fatherName></fatherName>
+  <lastName></lastName>
+  <religion></religion>
+  <age></age>
+  <notes></notes>
+  <caseNum></caseNum>
+</row-178>
+<row-179>
+  <num>180</num>
+  <name></name>
+  <fatherName></fatherName>
+  <lastName></lastName>
+  <religion></religion>
+  <age></age>
+  <notes></notes>
+  <caseNum></caseNum>
+</row-179>
+<row-180>
+  <num>181</num>
+  <name></name>
+  <fatherName></fatherName>
+  <lastName></lastName>
+  <religion></religion>
+  <age></age>
+  <notes></notes>
+  <caseNum></caseNum>
+</row-180>
+<row-181>
+  <num>182</num>
+  <name></name>
+  <fatherName></fatherName>
+  <lastName></lastName>
+  <religion></religion>
+  <age></age>
+  <notes></notes>
+  <caseNum></caseNum>
+</row-181>
+<row-182>
+  <num>183</num>
+  <name></name>
+  <fatherName></fatherName>
+  <lastName></lastName>
+  <religion></religion>
+  <age></age>
+  <notes></notes>
+  <caseNum></caseNum>
+</row-182>
+<row-183>
+  <num>184</num>
+  <name></name>
+  <fatherName></fatherName>
+  <lastName></lastName>
+  <religion></religion>
+  <age></age>
+  <notes></notes>
+  <caseNum></caseNum>
+</row-183>
+<row-184>
+  <num>185</num>
+  <name></name>
+  <fatherName></fatherName>
+  <lastName></lastName>
+  <religion></religion>
+  <age></age>
+  <notes></notes>
+  <caseNum></caseNum>
+</row-184>
+<row-185>
+  <num>186</num>
+  <name></name>
+  <fatherName></fatherName>
+  <lastName></lastName>
+  <religion></religion>
+  <age></age>
+  <notes></notes>
+  <caseNum></caseNum>
+</row-185>
+<row-186>
+  <num>187</num>
+  <name></name>
+  <fatherName></fatherName>
+  <lastName></lastName>
+  <religion></religion>
+  <age></age>
+  <notes></notes>
+  <caseNum></caseNum>
+</row-186>
+<row-187>
+  <num>188</num>
+  <name></name>
+  <fatherName></fatherName>
+  <lastName></lastName>
+  <religion></religion>
+  <age></age>
+  <notes></notes>
+  <caseNum></caseNum>
+</row-187>
+<row-188>
+  <num>189</num>
+  <name></name>
+  <fatherName></fatherName>
+  <lastName></lastName>
+  <religion></religion>
+  <age></age>
+  <notes></notes>
+  <caseNum></caseNum>
+</row-188>
+<row-189>
+  <num>190</num>
+  <name></name>
+  <fatherName></fatherName>
+  <lastName></lastName>
+  <religion></religion>
+  <age></age>
+  <notes></notes>
+  <caseNum></caseNum>
+</row-189>
+<row-190>
+  <num>191</num>
+  <name>ברכה</name>
+  <fatherName>יעקב</fatherName>
+  <lastName>אחרק</lastName>
+  <religion>תימן</religion>
+  <age>8 ח</age>
+  <notes></notes>
+  <caseNum>נ/216</caseNum>
+</row-190>
+<row-191>
+  <num>192</num>
+  <name>ציון</name>
+  <fatherName>סולימן</fatherName>
+  <lastName>דהרי</lastName>
+  <religion>תימן</religion>
+  <age>3 ח</age>
+  <notes></notes>
+  <caseNum>נ/217</caseNum>
+</row-191>
+<row-192>
+  <num>193</num>
+  <name>סלמן</name>
+  <fatherName>ישראל</fatherName>
+  <lastName>דוד</lastName>
+  <religion>תימן</religion>
+  <age>1 ש</age>
+  <notes></notes>
+  <caseNum>נ/218</caseNum>
+</row-192>
+<row-193>
+  <num>194</num>
+  <name>ציונה</name>
+  <fatherName>סלם</fatherName>
+  <lastName>צוברי</lastName>
+  <religion>תימן</religion>
+  <age>9 ח</age>
+  <notes></notes>
+  <caseNum>נ/219</caseNum>
+</row-193>
+<row-194>
+  <num>195</num>
+  <name>ציון</name>
+  <fatherName>יחיא</fatherName>
+  <lastName>חפדי</lastName>
+  <religion>תימן</religion>
+  <age>2 ח</age>
+  <notes></notes>
+  <caseNum>נ/220</caseNum>
+</row-194>
+<row-195>
+  <num>196</num>
+  <name>טוב</name>
+  <fatherName>צבי</fatherName>
+  <lastName>תם</lastName>
+  <religion>תימן</religion>
+  <age>8 יום</age>
+  <notes></notes>
+  <caseNum>נ/221</caseNum>
+</row-195>
+<row-196>
+  <num>197</num>
+  <name>הוידה</name>
+  <fatherName>יחיא</fatherName>
+  <lastName>יחיא</lastName>
+  <religion>תימן</religion>
+  <age>1.5 ש</age>
+  <notes></notes>
+  <caseNum>נ/222</caseNum>
+</row-196>
+<row-197>
+  <num>198</num>
+  <name>צפורה</name>
+  <fatherName>סלם</fatherName>
+  <lastName>מנצור</lastName>
+  <religion>תימן</religion>
+  <age>4 ח</age>
+  <notes></notes>
+  <caseNum>נ/223</caseNum>
+</row-197>
+<row-198>
+  <num>199</num>
+  <name>יונה</name>
+  <fatherName>סלימן</fatherName>
+  <lastName>סרי</lastName>
+  <religion>תימן</religion>
+  <age>15 יום</age>
+  <notes></notes>
+  <caseNum>נ/224</caseNum>
+</row-198>
+<row-199>
+  <num>200</num>
+  <name>אהרון</name>
+  <fatherName>אהרן</fatherName>
+  <lastName>שבאס</lastName>
+  <religion>תימן</religion>
+  <age>5 ח</age>
+  <notes></notes>
+  <caseNum>נ/225</caseNum>
+</row-199>
+<row-200>
+  <num>201</num>
+  <name>יחיא</name>
+  <fatherName>סעיד</fatherName>
+  <lastName>עבדי</lastName>
+  <religion>תימן</religion>
+  <age>9 ח</age>
+  <notes></notes>
+  <caseNum>נ/226</caseNum>
+</row-200>
+<row-201>
+  <num>202</num>
+  <name>שמעה</name>
+  <fatherName>מוסלם</fatherName>
+  <lastName>גדסי</lastName>
+  <religion>תימן</religion>
+  <age>3 ש</age>
+  <notes></notes>
+  <caseNum>נ/227</caseNum>
+</row-201>
+<row-202>
+  <num>203</num>
+  <name>מזל</name>
+  <fatherName>סלם</fatherName>
+  <lastName>דכעני</lastName>
+  <religion>תימן</religion>
+  <age>6 ח</age>
+  <notes></notes>
+  <caseNum>נ/228</caseNum>
+</row-202>
+<row-203>
+  <num>204</num>
+  <name>נורית</name>
+  <fatherName>חסן</fatherName>
+  <lastName>שרעבי</lastName>
+  <religion>תימן</religion>
+  <age>10 יום</age>
+  <notes></notes>
+  <caseNum>נ/229</caseNum>
+</row-203>
+<row-204>
+  <num>205</num>
+  <name>אברהם</name>
+  <fatherName>חיים</fatherName>
+  <lastName>נג'ר</lastName>
+  <religion>תימן</religion>
+  <age>1 ח</age>
+  <notes></notes>
+  <caseNum>נ/230</caseNum>
+</row-204>
+<row-205>
+  <num>206</num>
+  <name>זכריה</name>
+  <fatherName>משה</fatherName>
+  <lastName>חסן</lastName>
+  <religion>תימן</religion>
+  <age>4 ח</age>
+  <notes></notes>
+  <caseNum>נ/231</caseNum>
+</row-205>
+<row-206>
+  <num>207</num>
+  <name>יהודה</name>
+  <fatherName>חסן</fatherName>
+  <lastName>באסל</lastName>
+  <religion>תימן</religion>
+  <age>5 ש</age>
+  <notes></notes>
+  <caseNum>נ/232</caseNum>
+</row-206>
+<row-207>
+  <num>208</num>
+  <name>סלוה</name>
+  <fatherName>סולימן</fatherName>
+  <lastName>סלם</lastName>
+  <religion>תימן</religion>
+  <age>1.5 ש</age>
+  <notes></notes>
+  <caseNum>נ/233</caseNum>
+</row-207>
+<row-208>
+  <num>209</num>
+  <name>ציון</name>
+  <fatherName>יוסף</fatherName>
+  <lastName>זורי</lastName>
+  <religion>תימן</religion>
+  <age>2 ח</age>
+  <notes></notes>
+  <caseNum>נ/234</caseNum>
+</row-208>
+<row-209>
+  <num>210</num>
+  <name>יוסף</name>
+  <fatherName>סולימן</fatherName>
+  <lastName>אשרף</lastName>
+  <religion>תימן</religion>
+  <age>4 ש</age>
+  <notes></notes>
+  <caseNum>נ/235</caseNum>
+</row-209>
+<row-210>
+  <num>211</num>
+  <name>עזרא</name>
+  <fatherName>יחיא</fatherName>
+  <lastName>מליחי</lastName>
+  <religion>תימן</religion>
+  <age>8 יום</age>
+  <notes></notes>
+  <caseNum>נ/236</caseNum>
+</row-210>
+<row-211>
+  <num>212</num>
+  <name>סעדיה</name>
+  <fatherName>יוסף</fatherName>
+  <lastName>לידני</lastName>
+  <religion>תימן</religion>
+  <age>3 ח</age>
+  <notes></notes>
+  <caseNum>נ/237</caseNum>
+</row-211>
+<row-212>
+  <num>213</num>
+  <name>ציונה</name>
+  <fatherName>עזר</fatherName>
+  <lastName>צרום</lastName>
+  <religion>תימן</religion>
+  <age>6 ח</age>
+  <notes></notes>
+  <caseNum>נ/238</caseNum>
+</row-212>
+<row-213>
+  <num>214</num>
+  <name>ציון</name>
+  <fatherName>יחיא</fatherName>
+  <lastName>עוזרי</lastName>
+  <religion>תימן</religion>
+  <age>6 שבוע</age>
+  <notes></notes>
+  <caseNum>נ/240</caseNum>
+</row-213>
+<row-214>
+  <num>215</num>
+  <name>3-נפלים</name>
+  <fatherName>דוד</fatherName>
+  <lastName>נג'ר</lastName>
+  <religion>תימן</religion>
+  <age>-</age>
+  <notes>שלישיה היו 2 ימים</notes>
+  <caseNum>נ/241</caseNum>
+</row-214>
+<row-215>
+  <num>216</num>
+  <name>נפל</name>
+  <fatherName>עזרי</fatherName>
+  <lastName>גיאת</lastName>
+  <religion>תימן</religion>
+  <age>3 יום</age>
+  <notes></notes>
+  <caseNum>נ/242</caseNum>
+</row-215>
+<row-216>
+  <num>217</num>
+  <name>ציון</name>
+  <fatherName>יוסף</fatherName>
+  <lastName>לוי</lastName>
+  <religion>תימן</religion>
+  <age>1.5 ח</age>
+  <notes></notes>
+  <caseNum>נ/243</caseNum>
+</row-216>
+<row-217>
+  <num>218</num>
+  <name>ישראל</name>
+  <fatherName>שמעון</fatherName>
+  <lastName>חלא</lastName>
+  <religion>תימן</religion>
+  <age>4 ח</age>
+  <notes></notes>
+  <caseNum>נ/244</caseNum>
+</row-217>
+<row-218>
+  <num>219</num>
+  <name>אסתר</name>
+  <fatherName>יששכר</fatherName>
+  <lastName>מולך</lastName>
+  <religion>אפגניסטן</religion>
+  <age>3 ש</age>
+  <notes></notes>
+  <caseNum>נ/245</caseNum>
+</row-218>
+<row-219>
+  <num>220</num>
+  <name>אברהם</name>
+  <fatherName>ישראל</fatherName>
+  <lastName>ערוסי</lastName>
+  <religion>תימן</religion>
+  <age>8ח</age>
+  <notes></notes>
+  <caseNum>נ/246</caseNum>
+</row-219>
+<row-220>
+  <num>221</num>
+  <name>יגאל</name>
+  <fatherName>דוד</fatherName>
+  <lastName>גטר</lastName>
+  <religion>תימן</religion>
+  <age>10 יום</age>
+  <notes></notes>
+  <caseNum>נ/247</caseNum>
+</row-220>
+<row-221>
+  <num>222</num>
+  <name>עוזיאל</name>
+  <fatherName>חיים</fatherName>
+  <lastName>קרני</lastName>
+  <religion>תימן</religion>
+  <age>1 ח</age>
+  <notes></notes>
+  <caseNum>נ/248</caseNum>
+</row-221>
+<row-222>
+  <num>223</num>
+  <name>שושנה</name>
+  <fatherName>יצחק</fatherName>
+  <lastName>חנש</lastName>
+  <religion>תימן</religion>
+  <age>8 יום</age>
+  <notes></notes>
+  <caseNum>נ/249</caseNum>
+</row-222>
+<row-223>
+  <num>224</num>
+  <name>גזל</name>
+  <fatherName>יוסף</fatherName>
+  <lastName>חוטר</lastName>
+  <religion>תימן</religion>
+  <age>0.5 ש</age>
+  <notes></notes>
+  <caseNum>נ/250</caseNum>
+</row-223>
+<row-224>
+  <num>225</num>
+  <name>נפל</name>
+  <fatherName>סולימן</fatherName>
+  <lastName>סלם</lastName>
+  <religion>תימן</religion>
+  <age>-</age>
+  <notes></notes>
+  <caseNum>נ/253</caseNum>
+</row-224>
+<row-225>
+  <num>226</num>
+  <name>זוהרה</name>
+  <fatherName>ישראל</fatherName>
+  <lastName>סמונה</lastName>
+  <religion>תימן</religion>
+  <age>5 ח</age>
+  <notes></notes>
+  <caseNum>נ/251</caseNum>
+</row-225>
+<row-226>
+  <num>227</num>
+  <name>ציון</name>
+  <fatherName>שלמה</fatherName>
+  <lastName>דהן</lastName>
+  <religion>מרוקו</religion>
+  <age>5 ח</age>
+  <notes></notes>
+  <caseNum>-</caseNum>
+</row-226>
+<row-227>
+  <num>228</num>
+  <name>שמעון</name>
+  <fatherName>סעיד</fatherName>
+  <lastName>בוטה</lastName>
+  <religion>תימן</religion>
+  <age>9 ח</age>
+  <notes></notes>
+  <caseNum>נ/254</caseNum>
+</row-227>
+<row-228>
+  <num>229</num>
+  <name>יהודה</name>
+  <fatherName>סולימן</fatherName>
+  <lastName>קשת</lastName>
+  <religion>תימן</religion>
+  <age>5 ח</age>
+  <notes></notes>
+  <caseNum>נ/256</caseNum>
+</row-228>
+<row-229>
+  <num>230</num>
+  <name>חנה</name>
+  <fatherName>סלם</fatherName>
+  <lastName>רצבי</lastName>
+  <religion>תימן</religion>
+  <age>6 ש</age>
+  <notes></notes>
+  <caseNum>נ/258</caseNum>
+</row-229>
+<row-230>
+  <num>231</num>
+  <name>שמחה</name>
+  <fatherName>אהרון</fatherName>
+  <lastName>עוואד</lastName>
+  <religion>תימן</religion>
+  <age>7 ח</age>
+  <notes></notes>
+  <caseNum>נ/259</caseNum>
+</row-230>
+<row-231>
+  <num>232</num>
+  <name>ציונה</name>
+  <fatherName>ניסים</fatherName>
+  <lastName>חדד</lastName>
+  <religion>תימן</religion>
+  <age>14 יום</age>
+  <notes></notes>
+  <caseNum>נ/261</caseNum>
+</row-231>
+<row-232>
+  <num>233</num>
+  <name>יחיא</name>
+  <fatherName>יוסף</fatherName>
+  <lastName>דפר</lastName>
+  <religion>תימן</religion>
+  <age>1 ש</age>
+  <notes></notes>
+  <caseNum>נ/262</caseNum>
+</row-232>
+<row-233>
+  <num>234</num>
+  <name>רחל</name>
+  <fatherName>יחיא</fatherName>
+  <lastName>נגר</lastName>
+  <religion>תימן</religion>
+  <age>7 ח</age>
+  <notes></notes>
+  <caseNum>נ/263</caseNum>
+</row-233>
+<row-234>
+  <num>235</num>
+  <name>ציון</name>
+  <fatherName>אברהם</fatherName>
+  <lastName>כברה</lastName>
+  <religion>תימן</religion>
+  <age>17 יום</age>
+  <notes></notes>
+  <caseNum>נ/264</caseNum>
+</row-234>
+<row-235>
+  <num>236</num>
+  <name>סימן</name>
+  <fatherName>סלם</fatherName>
+  <lastName>סודרי</lastName>
+  <religion>תימן</religion>
+  <age>3 ח</age>
+  <notes></notes>
+  <caseNum>נ/267</caseNum>
+</row-235>
+<row-236>
+  <num>237</num>
+  <name>ציונה</name>
+  <fatherName>מעודה</fatherName>
+  <lastName>סלם</lastName>
+  <religion>תימן</religion>
+  <age>4 ח</age>
+  <notes></notes>
+  <caseNum>נ/268</caseNum>
+</row-236>
+<row-237>
+  <num>238</num>
+  <name>סעיד</name>
+  <fatherName>מעודה</fatherName>
+  <lastName>סלם</lastName>
+  <religion>תימן</religion>
+  <age>2 ש</age>
+  <notes></notes>
+  <caseNum>נ/269</caseNum>
+</row-237>
+<row-238>
+  <num>239</num>
+  <name>מרים</name>
+  <fatherName>יחיא</fatherName>
+  <lastName>דמארי</lastName>
+  <religion>תימן</religion>
+  <age>3 ח</age>
+  <notes></notes>
+  <caseNum>נ/270</caseNum>
+</row-238>
+<row-239>
+  <num>240</num>
+  <name>טוב</name>
+  <fatherName>שוקר</fatherName>
+  <lastName>גברא</lastName>
+  <religion>תימן</religion>
+  <age>9 ח</age>
+  <notes></notes>
+  <caseNum>נ/271</caseNum>
+</row-239>
+<row-240>
+  <num>241</num>
+  <name>כרמלה</name>
+  <fatherName>שאול</fatherName>
+  <lastName>זכריה</lastName>
+  <religion>תימן</religion>
+  <age>3 ח</age>
+  <notes></notes>
+  <caseNum>נ/272</caseNum>
+</row-240>
+<row-241>
+  <num>242</num>
+  <name>עדינה</name>
+  <fatherName>אפרים</fatherName>
+  <lastName>עטייה</lastName>
+  <religion>טריפולי</religion>
+  <age>1 ש</age>
+  <notes></notes>
+  <caseNum>נ/273</caseNum>
+</row-241>
+<row-242>
+  <num>243</num>
+  <name>הרצל</name>
+  <fatherName>ירמיה</fatherName>
+  <lastName>עטיה</lastName>
+  <religion>תימן</religion>
+  <age>1 ש</age>
+  <notes></notes>
+  <caseNum>נ/274</caseNum>
+</row-242>
+<row-243>
+  <num>244</num>
+  <name>צדוק</name>
+  <fatherName>יעקב</fatherName>
+  <lastName>גראמה</lastName>
+  <religion>תימן</religion>
+  <age>15 ח</age>
+  <notes></notes>
+  <caseNum>נ/275</caseNum>
+</row-243>
+<row-244>
+  <num>245</num>
+  <name>יוסף</name>
+  <fatherName>שאול</fatherName>
+  <lastName>דואק</lastName>
+  <religion>מצרים</religion>
+  <age>15 ח</age>
+  <notes></notes>
+  <caseNum>נ/276</caseNum>
+</row-244>
+<row-245>
+  <num>246</num>
+  <name>מחנה</name>
+  <fatherName>מנשה</fatherName>
+  <lastName>אסבת</lastName>
+  <religion>תימן</religion>
+  <age>5 ש</age>
+  <notes></notes>
+  <caseNum>נ/277</caseNum>
+</row-245>
+<row-246>
+  <num>247</num>
+  <name>יהודה</name>
+  <fatherName>סאלם</fatherName>
+  <lastName>מחדרי</lastName>
+  <religion>תימן</religion>
+  <age>5 ח</age>
+  <notes></notes>
+  <caseNum>נ/278</caseNum>
+</row-246>
+<row-247>
+  <num>248</num>
+  <name>רחל</name>
+  <fatherName>סלימאן</fatherName>
+  <lastName>שבאס</lastName>
+  <religion>תימן</religion>
+  <age>15 יום</age>
+  <notes></notes>
+  <caseNum>נ/279</caseNum>
+</row-247>
+<row-248>
+  <num>249</num>
+  <name>הלל</name>
+  <fatherName>אברהם</fatherName>
+  <lastName>זוהר-יזנפינה</lastName>
+  <religion>פרס</religion>
+  <age>6 ח</age>
+  <notes></notes>
+  <caseNum>נ/280</caseNum>
+</row-248>
+<row-249>
+  <num>250</num>
+  <name>סלם</name>
+  <fatherName>יחיא</fatherName>
+  <lastName>דפר</lastName>
+  <religion>תימן</religion>
+  <age>25 ש</age>
+  <notes></notes>
+  <caseNum>נ/281</caseNum>
+</row-249>
+<row-250>
+  <num>251</num>
+  <name>לולואה</name>
+  <fatherName>יוסף</fatherName>
+  <lastName>אקועה</lastName>
+  <religion>תימן</religion>
+  <age>4 ש</age>
+  <notes></notes>
+  <caseNum>נ/282</caseNum>
+</row-250>
+<row-251>
+  <num>252</num>
+  <name>רחמים</name>
+  <fatherName>יהודה</fatherName>
+  <lastName>כהן</lastName>
+  <religion>תימן</religion>
+  <age>2.5 ח</age>
+  <notes></notes>
+  <caseNum>נ/283</caseNum>
+</row-251>
+<row-252>
+  <num>253</num>
+  <name>אסתר</name>
+  <fatherName>יחיא</fatherName>
+  <lastName>נג'ר</lastName>
+  <religion>תימן</religion>
+  <age>1 ח</age>
+  <notes></notes>
+  <caseNum>נ/284</caseNum>
+</row-252>
+<row-253>
+  <num>254</num>
+  <name>רוני</name>
+  <fatherName>משה</fatherName>
+  <lastName>טובול</lastName>
+  <religion>מרוקו</religion>
+  <age>3 ח</age>
+  <notes></notes>
+  <caseNum>נ/285</caseNum>
+</row-253>
+<row-254>
+  <num>255</num>
+  <name>ציונה</name>
+  <fatherName>סולימן</fatherName>
+  <lastName>גמליאל</lastName>
+  <religion>תימן</religion>
+  <age>6 ח</age>
+  <notes></notes>
+  <caseNum>נ/286</caseNum>
+</row-254>
+<row-255>
+  <num>256</num>
+  <name>רחמים</name>
+  <fatherName>יפת</fatherName>
+  <lastName>יהודה-שובילי</lastName>
+  <religion>תימן</religion>
+  <age>1 ח</age>
+  <notes></notes>
+  <caseNum>נ/287</caseNum>
+</row-255>
+<row-256>
+  <num>257</num>
+  <name>מזל</name>
+  <fatherName>יחיא</fatherName>
+  <lastName>חוכימה</lastName>
+  <religion>תימן</religion>
+  <age>5 ח</age>
+  <notes></notes>
+  <caseNum>נ/288</caseNum>
+</row-256>
+<row-257>
+  <num>258</num>
+  <name>שמעון</name>
+  <fatherName>שלמה</fatherName>
+  <lastName>צפור</lastName>
+  <religion>תימן</religion>
+  <age>2 ח</age>
+  <notes></notes>
+  <caseNum>נ/289</caseNum>
+</row-257>
+<row-258>
+  <num>259</num>
+  <name>-</name>
+  <fatherName>סעדיה</fatherName>
+  <lastName>חסר</lastName>
+  <religion>תימן</religion>
+  <age>נפל</age>
+  <notes></notes>
+  <caseNum>נ/291</caseNum>
+</row-258>
+<row-259>
+  <num>260</num>
+  <name>ציון</name>
+  <fatherName>והב</fatherName>
+  <lastName>אחרק</lastName>
+  <religion>תימן</religion>
+  <age>1 ח</age>
+  <notes></notes>
+  <caseNum>נ/292</caseNum>
+</row-259>
+<row-260>
+  <num>261</num>
+  <name>נפל</name>
+  <fatherName>יוסף</fatherName>
+  <lastName>אחרק</lastName>
+  <religion>תימן</religion>
+  <age>-</age>
+  <notes></notes>
+  <caseNum>נ/293</caseNum>
+</row-260>
+<row-261>
+  <num>262</num>
+  <name>אברהם</name>
+  <fatherName>סעיד</fatherName>
+  <lastName>חדד</lastName>
+  <religion>תימן</religion>
+  <age>5 ח</age>
+  <notes></notes>
+  <caseNum>נ/294</caseNum>
+</row-261>
+<row-262>
+  <num>263</num>
+  <name>ציון</name>
+  <fatherName>מוסה</fatherName>
+  <lastName>מועלם</lastName>
+  <religion>תימן</religion>
+  <age>22 יום</age>
+  <notes></notes>
+  <caseNum>נ/295</caseNum>
+</row-262>
+<row-263>
+  <num>264</num>
+  <name>טוב</name>
+  <fatherName>יחיא</fatherName>
+  <lastName>עמר</lastName>
+  <religion>תימן</religion>
+  <age>1 ש</age>
+  <notes></notes>
+  <caseNum>נ/296</caseNum>
+</row-263>
+<row-264>
+  <num>265</num>
+  <name>ידידה</name>
+  <fatherName>יחיא</fatherName>
+  <lastName>ג'ובני</lastName>
+  <religion>תימן</religion>
+  <age>5 ח</age>
+  <notes></notes>
+  <caseNum>נ/297</caseNum>
+</row-264>
+<row-265>
+  <num>266</num>
+  <name>חממה</name>
+  <fatherName>שלם</fatherName>
+  <lastName>נג'ר</lastName>
+  <religion>תימן</religion>
+  <age>1.5 ש</age>
+  <notes></notes>
+  <caseNum>נ/298</caseNum>
+</row-265>
+<row-266>
+  <num>267</num>
+  <name>שמעון</name>
+  <fatherName>יוסף</fatherName>
+  <lastName>ציב</lastName>
+  <religion>תימן</religion>
+  <age>4 ש</age>
+  <notes></notes>
+  <caseNum>נ/299</caseNum>
+</row-266>
+<row-267>
+  <num>268</num>
+  <name>רבקה</name>
+  <fatherName>לוי</fatherName>
+  <lastName>כהן</lastName>
+  <religion>תימן</religion>
+  <age>20 יום</age>
+  <notes></notes>
+  <caseNum>נ/300</caseNum>
+</row-267>
+<row-268>
+  <num>269</num>
+  <name>סלם</name>
+  <fatherName>אברהם</fatherName>
+  <lastName>לוי</lastName>
+  <religion>תימן</religion>
+  <age>2 ח</age>
+  <notes></notes>
+  <caseNum>נ/301</caseNum>
+</row-268>
+<row-269>
+  <num>270</num>
+  <name>שושנה</name>
+  <fatherName>מוסה</fatherName>
+  <lastName>והב</lastName>
+  <religion>תימן</religion>
+  <age>2 ח</age>
+  <notes></notes>
+  <caseNum>נ/302</caseNum>
+</row-269>
+<row-270>
+  <num>271</num>
+  <name>עדינה</name>
+  <fatherName>מנחם</fatherName>
+  <lastName>טוב</lastName>
+  <religion>תימן</religion>
+  <age>8 ח</age>
+  <notes></notes>
+  <caseNum>נ/305</caseNum>
+</row-270>
+<row-271>
+  <num>272</num>
+  <name>ציון</name>
+  <fatherName>יחיא</fatherName>
+  <lastName>לולו</lastName>
+  <religion>תימן</religion>
+  <age>12 יום</age>
+  <notes></notes>
+  <caseNum>נ/304</caseNum>
+</row-271>
+<row-272>
+  <num>273</num>
+  <name>ציון</name>
+  <fatherName>אהרון</fatherName>
+  <lastName>מינס</lastName>
+  <religion>תימן</religion>
+  <age>1.5 ח</age>
+  <notes></notes>
+  <caseNum>נ/306</caseNum>
+</row-272>
+<row-273>
+  <num>274</num>
+  <name>ציון</name>
+  <fatherName>יחיא</fatherName>
+  <lastName>חרפוף</lastName>
+  <religion>תימן</religion>
+  <age>8 ח</age>
+  <notes></notes>
+  <caseNum>נ/307</caseNum>
+</row-273>
+<row-274>
+  <num>275</num>
+  <name>יונה</name>
+  <fatherName>שמעון</fatherName>
+  <lastName>מליחי</lastName>
+  <religion>תימן</religion>
+  <age>5 ח</age>
+  <notes></notes>
+  <caseNum>נ/308</caseNum>
+</row-274>
+<row-275>
+  <num>276</num>
+  <name>גורה</name>
+  <fatherName>יום-טוב</fatherName>
+  <lastName>בנה</lastName>
+  <religion>פרס</religion>
+  <age>3.5 ח</age>
+  <notes></notes>
+  <caseNum>נ/312</caseNum>
+</row-275>
+<row-276>
+  <num>277</num>
+  <name>מזל</name>
+  <fatherName>יוסף</fatherName>
+  <lastName>גריטי</lastName>
+  <religion>תימן</religion>
+  <age>1 ש</age>
+  <notes></notes>
+  <caseNum>נ/313</caseNum>
+</row-276>
+<row-277>
+  <num>278</num>
+  <name>עזרא</name>
+  <fatherName>יחיא</fatherName>
+  <lastName>פרוי</lastName>
+  <religion>תימן</religion>
+  <age>8 ח</age>
+  <notes></notes>
+  <caseNum>נ/314</caseNum>
+</row-277>
+<row-278>
+  <num>279</num>
+  <name>יעקב</name>
+  <fatherName>שלמה</fatherName>
+  <lastName>בוצצו</lastName>
+  <religion>בולגריה</religion>
+  <age>2 ש</age>
+  <notes></notes>
+  <caseNum>נ/315</caseNum>
+</row-278>
+<row-279>
+  <num>280</num>
+  <name>שלום</name>
+  <fatherName>סעדיה</fatherName>
+  <lastName>זהרי</lastName>
+  <religion>תימן</religion>
+  <age>2 ש</age>
+  <notes></notes>
+  <caseNum>נ/309</caseNum>
+</row-279>
+<row-280>
+  <num>281</num>
+  <name>משה</name>
+  <fatherName>עמרן</fatherName>
+  <lastName>רדא</lastName>
+  <religion>תימן</religion>
+  <age>6 שבוע</age>
+  <notes></notes>
+  <caseNum>נ/319</caseNum>
+</row-280>
+<row-281>
+  <num>282</num>
+  <name>שאול</name>
+  <fatherName>יהודה</fatherName>
+  <lastName>מטרי</lastName>
+  <religion>תימן</religion>
+  <age>8 ח</age>
+  <notes></notes>
+  <caseNum>נ/320</caseNum>
+</row-281>
+<row-282>
+  <num>283</num>
+  <name>גאולה</name>
+  <fatherName>יוסף</fatherName>
+  <lastName>ימיני</lastName>
+  <religion>תימן</religion>
+  <age>3 ח</age>
+  <notes></notes>
+  <caseNum>נ/321</caseNum>
+</row-282>
+<row-283>
+  <num>284</num>
+  <name>שמעה</name>
+  <fatherName>חיים</fatherName>
+  <lastName>צבטני</lastName>
+  <religion>תימן</religion>
+  <age>14 ש</age>
+  <notes></notes>
+  <caseNum>נ/322</caseNum>
+</row-283>
+<row-284>
+  <num>285</num>
+  <name>שמעה</name>
+  <fatherName>עמרן</fatherName>
+  <lastName>פרחי</lastName>
+  <religion>תימן</religion>
+  <age>5 ח</age>
+  <notes></notes>
+  <caseNum>נ/323</caseNum>
+</row-284>
+<row-285>
+  <num>286</num>
+  <name>שמואל</name>
+  <fatherName>שלם</fatherName>
+  <lastName>אקרח</lastName>
+  <religion>תימן</religion>
+  <age>3 ח</age>
+  <notes></notes>
+  <caseNum>נ/324</caseNum>
+</row-285>
+<row-286>
+  <num>287</num>
+  <name>מרים</name>
+  <fatherName>שלם</fatherName>
+  <lastName>חתוקה</lastName>
+  <religion>תימן</religion>
+  <age>2.5 ש</age>
+  <notes></notes>
+  <caseNum>נ/325</caseNum>
+</row-286>
+<row-287>
+  <num>288</num>
+  <name>מיכל</name>
+  <fatherName>שמעון</fatherName>
+  <lastName>יצחק</lastName>
+  <religion>תימן</religion>
+  <age>7 ח</age>
+  <notes></notes>
+  <caseNum>נ/327</caseNum>
+</row-287>
+<row-288>
+  <num>289</num>
+  <name>זכריה</name>
+  <fatherName>סעיד</fatherName>
+  <lastName>אחרק</lastName>
+  <religion>תימן</religion>
+  <age>10 יום</age>
+  <notes></notes>
+  <caseNum>נ/329</caseNum>
+</row-288>
+<row-289>
+  <num>290</num>
+  <name>מסעור</name>
+  <fatherName>סעיד</fatherName>
+  <lastName>סגרון</lastName>
+  <religion>טוניס</religion>
+  <age>5 ח</age>
+  <notes></notes>
+  <caseNum>נ/332</caseNum>
+</row-289>
+<row-290>
+  <num>291</num>
+  <name>סעדה</name>
+  <fatherName>יחיא</fatherName>
+  <lastName>מהדרי</lastName>
+  <religion>תימן</religion>
+  <age>1 ש</age>
+  <notes></notes>
+  <caseNum>נ/334</caseNum>
+</row-290>
+<row-291>
+  <num>292</num>
+  <name>יצחק</name>
+  <fatherName>אהרון</fatherName>
+  <lastName>שלום-שוקרי</lastName>
+  <religion>תימן</religion>
+  <age>2 ח</age>
+  <notes></notes>
+  <caseNum>נ/337</caseNum>
+</row-291>
+<row-292>
+  <num>293</num>
+  <name>שמעון</name>
+  <fatherName>אהרון</fatherName>
+  <lastName>שלום-שוקרי</lastName>
+  <religion>תימן</religion>
+  <age>1 ש</age>
+  <notes></notes>
+  <caseNum>נ/338</caseNum>
+</row-292>
+<row-293>
+  <num>294</num>
+  <name>גבריאל</name>
+  <fatherName>סלם</fatherName>
+  <lastName>עמרן</lastName>
+  <religion>תימן</religion>
+  <age>3 ח</age>
+  <notes></notes>
+  <caseNum>נ/340</caseNum>
+</row-293>
+<row-294>
+  <num>295</num>
+  <name>ציון</name>
+  <fatherName>צדוק</fatherName>
+  <lastName>דהרי</lastName>
+  <religion>תימן</religion>
+  <age>18 ח</age>
+  <notes></notes>
+  <caseNum>נ/342</caseNum>
+</row-294>
+<row-295>
+  <num>296</num>
+  <name>מוסה</name>
+  <fatherName>יחיא</fatherName>
+  <lastName>גואס</lastName>
+  <religion>תימן</religion>
+  <age>14 יום</age>
+  <notes></notes>
+  <caseNum>נ/343</caseNum>
+</row-295>
+<row-296>
+  <num>297</num>
+  <name>אבנר</name>
+  <fatherName>רצון</fatherName>
+  <lastName>רדא</lastName>
+  <religion>תימן</religion>
+  <age>5 ח</age>
+  <notes></notes>
+  <caseNum>נ/344</caseNum>
+</row-296>
+<row-297>
+  <num>298</num>
+  <name>-</name>
+  <fatherName>סלם</fatherName>
+  <lastName>ניני</lastName>
+  <religion>תימן</religion>
+  <age>נפל</age>
+  <notes></notes>
+  <caseNum>נ/345</caseNum>
+</row-297>
+<row-298>
+  <num>299</num>
+  <name>רחמים</name>
+  <fatherName>שלום</fatherName>
+  <lastName>יחיא</lastName>
+  <religion>תימן</religion>
+  <age>3 ח</age>
+  <notes></notes>
+  <caseNum>נ/346</caseNum>
+</row-298>
+<row-299>
+  <num>300</num>
+  <name>רחל</name>
+  <fatherName>סעיד</fatherName>
+  <lastName>עומיסי</lastName>
+  <religion>תימן</religion>
+  <age>2 ח</age>
+  <notes></notes>
+  <caseNum>נ/348</caseNum>
+</row-299>
+<row-300>
+  <num>301</num>
+  <name>יונה</name>
+  <fatherName>אהרון</fatherName>
+  <lastName>כהן</lastName>
+  <religion>תימן</religion>
+  <age>20 ש</age>
+  <notes></notes>
+  <caseNum>נ/349</caseNum>
+</row-300>
+<row-301>
+  <num>302</num>
+  <name>ברוך</name>
+  <fatherName>סולימן</fatherName>
+  <lastName>אשרף</lastName>
+  <religion>תימן</religion>
+  <age>3 ח</age>
+  <notes></notes>
+  <caseNum>נ/350</caseNum>
+</row-301>
+<row-302>
+  <num>303</num>
+  <name>לאה</name>
+  <fatherName>והב</fatherName>
+  <lastName>אברהם</lastName>
+  <religion>תימן</religion>
+  <age>18 ח</age>
+  <notes></notes>
+  <caseNum>נ/352</caseNum>
+</row-302>
+<row-303>
+  <num>304</num>
+  <name>-</name>
+  <fatherName>סולימן</fatherName>
+  <lastName>צברי</lastName>
+  <religion>תימן</religion>
+  <age>נפל</age>
+  <notes></notes>
+  <caseNum>נ/351</caseNum>
+</row-303>
+<row-304>
+  <num>305</num>
+  <name>ציון</name>
+  <fatherName>פנחס</fatherName>
+  <lastName>כהן</lastName>
+  <religion>תימן</religion>
+  <age>1 ש</age>
+  <notes></notes>
+  <caseNum>נ/316</caseNum>
+</row-304>
+<row-305>
+  <num>306</num>
+  <name>ברכה</name>
+  <fatherName>יחיא</fatherName>
+  <lastName>קורח</lastName>
+  <religion>תימן</religion>
+  <age>9 ח</age>
+  <notes></notes>
+  <caseNum>נ/347</caseNum>
+</row-305>
+<row-306>
+  <num>307</num>
+  <name>אפרים</name>
+  <fatherName>שלום</fatherName>
+  <lastName>חשובה</lastName>
+  <religion>טריפולי</religion>
+  <age>1 ש</age>
+  <notes></notes>
+  <caseNum>נ/341</caseNum>
+</row-306>
+<row-307>
+  <num>308</num>
+  <name>מרים</name>
+  <fatherName>יעקב</fatherName>
+  <lastName>הינדי</lastName>
+  <religion>תימן</religion>
+  <age>18 יום</age>
+  <notes></notes>
+  <caseNum>נ/335</caseNum>
+</row-307>
+<row-308>
+  <num>309</num>
+  <name>חממה</name>
+  <fatherName>אהרון</fatherName>
+  <lastName>סברי</lastName>
+  <religion>תימן</religion>
+  <age>7.5 ח</age>
+  <notes></notes>
+  <caseNum>נ/328</caseNum>
+</row-308>
+<row-309>
+  <num>310</num>
+  <name>-</name>
+  <fatherName>רחמים</fatherName>
+  <lastName>קצב</lastName>
+  <religion>פרס</religion>
+  <age>נפל</age>
+  <notes></notes>
+  <caseNum>נ/331</caseNum>
+</row-309>
+<row-310>
+  <num>311</num>
+  <name>צביה</name>
+  <fatherName>סלם</fatherName>
+  <lastName>סנעני</lastName>
+  <religion>תימן</religion>
+  <age>3 ש</age>
+  <notes></notes>
+  <caseNum>נ/330</caseNum>
+</row-310>
+<row-311>
+  <num>312</num>
+  <name>לאה</name>
+  <fatherName>משה</fatherName>
+  <lastName>חכימי</lastName>
+  <religion>אפגניסטן</religion>
+  <age>1 ח</age>
+  <notes></notes>
+  <caseNum>נ/303</caseNum>
+</row-311>
+<row-312>
+  <num>313</num>
+  <name>יחיא</name>
+  <fatherName>סלימן</fatherName>
+  <lastName>חדד</lastName>
+  <religion>תימן</religion>
+  <age>3 ש</age>
+  <notes></notes>
+  <caseNum>נ/336</caseNum>
+</row-312>
+<row-313>
+  <num>314</num>
+  <name>מזל</name>
+  <fatherName>חסן</fatherName>
+  <lastName>אפרים</lastName>
+  <religion>תימן</religion>
+  <age>0.5 ש</age>
+  <notes></notes>
+  <caseNum>נ/310</caseNum>
+</row-313>
+<row-314>
+  <num>315</num>
+  <name>אהרון</name>
+  <fatherName>יעקב</fatherName>
+  <lastName>טלבי</lastName>
+  <religion>תימן</religion>
+  <age>1 ש</age>
+  <notes></notes>
+  <caseNum>נ/326</caseNum>
+</row-314>
+<row-315>
+  <num>316</num>
+  <name>ישראל</name>
+  <fatherName>יחיא</fatherName>
+  <lastName>גוטי</lastName>
+  <religion>תימן</religion>
+  <age>4 ח</age>
+  <notes></notes>
+  <caseNum>נ/333</caseNum>
+</row-315>
+<row-316>
+  <num>317</num>
+  <name>סעדה</name>
+  <fatherName>מנחם</fatherName>
+  <lastName>סעדיה</lastName>
+  <religion>תימן</religion>
+  <age>5 ח</age>
+  <notes></notes>
+  <caseNum>נ/353</caseNum>
+</row-316>
+<row-317>
+  <num>318</num>
+  <name>גוהרה</name>
+  <fatherName>מלכה</fatherName>
+  <lastName>חלפון</lastName>
+  <religion>טריפולי</religion>
+  <age>4 ח</age>
+  <notes></notes>
+  <caseNum>נ/354</caseNum>
+</row-317>
+<row-318>
+  <num>319</num>
+  <name>צפורה</name>
+  <fatherName>סלם</fatherName>
+  <lastName>חמדי-והב</lastName>
+  <religion>תימן</religion>
+  <age>5 ח</age>
+  <notes></notes>
+  <caseNum>נ/122</caseNum>
+</row-318>
+<row-319>
+  <num>320</num>
+  <name>נסים</name>
+  <fatherName>סלם</fatherName>
+  <lastName>חמדי-והב</lastName>
+  <religion>תימן</religion>
+  <age>2 ח</age>
+  <notes></notes>
+  <caseNum>נ/123</caseNum>
+</row-319>
+<row-320>
+  <num>321</num>
+  <name>חיים</name>
+  <fatherName>יחיא</fatherName>
+  <lastName>קרואני</lastName>
+  <religion>תימן</religion>
+  <age>10 ח</age>
+  <notes></notes>
+  <caseNum>נ/103</caseNum>
+</row-320>
+<row-321>
+  <num>322</num>
+  <name>ציונה</name>
+  <fatherName>יחיא</fatherName>
+  <lastName>השאש</lastName>
+  <religion>תימן</religion>
+  <age>3 ח</age>
+  <notes></notes>
+  <caseNum>נ/141</caseNum>
+</row-321>
+<row-322>
+  <num>323</num>
+  <name>סעדה</name>
+  <fatherName>סלח</fatherName>
+  <lastName>שמעון-יהושע</lastName>
+  <religion>תימן</religion>
+  <age>4 ח</age>
+  <notes>נתקבל ממשטרת ישראל</notes>
+  <caseNum>נ/23</caseNum>
+</row-322>
+<row-323>
+  <num>324</num>
+  <name>רחל</name>
+  <fatherName>סולימן</fatherName>
+  <lastName>שמעה</lastName>
+  <religion>תימן</religion>
+  <age>1 ש</age>
+  <notes>נתקבל ממשטרת ישראל</notes>
+  <caseNum>נ/29</caseNum>
+</row-323>
+<row-324>
+  <num>325</num>
+  <name>עמן</name>
+  <fatherName>יוסף</fatherName>
+  <lastName>לוי</lastName>
+  <religion>תימן</religion>
+  <age>2.5 ש</age>
+  <notes>נתקבל ממשטרת ישראל</notes>
+  <caseNum>נ/257</caseNum>
+</row-324>
+<row-325>
+  <num>326</num>
+  <name>סעדה</name>
+  <fatherName>יוסף</fatherName>
+  <lastName>קומימי</lastName>
+  <religion>תימן</religion>
+  <age>18 ח</age>
+  <notes></notes>
+  <caseNum>נ/238</caseNum>
+</row-325>
+<row-326>
+  <num>327</num>
+  <name>ציון</name>
+  <fatherName>יחיא</fatherName>
+  <lastName>סלם</lastName>
+  <religion>תימן</religion>
+  <age>2 ש</age>
+  <notes>נתקבל ממשטרת ישראל</notes>
+  <caseNum>נ/31</caseNum>
+</row-326>
+<row-327>
+  <num>328</num>
+  <name>מרתיאל-פלתיאל</name>
+  <fatherName>דוד-שלום</fatherName>
+  <lastName>רדא</lastName>
+  <religion>תימן</religion>
+  <age>1 ש</age>
+  <notes>נתקבל ממשטרת ישראל</notes>
+  <caseNum>נ/26</caseNum>
+</row-327>
+<row-328>
+  <num>329</num>
+  <name>ישראל</name>
+  <fatherName>יוסף</fatherName>
+  <lastName>מדמון</lastName>
+  <religion>תימן</religion>
+  <age>5 יום</age>
+  <notes></notes>
+  <caseNum>נ/197</caseNum>
+</row-328>
+<row-329>
+  <num>330</num>
+  <name>משה</name>
+  <fatherName>סלם</fatherName>
+  <lastName>נגר</lastName>
+  <religion>תימן</religion>
+  <age>8 ח</age>
+  <notes>נתקבל ממשטרת ישראל</notes>
+  <caseNum>נ/20</caseNum>
+</row-329>
+<row-330>
+  <num>331</num>
+  <name>רחל</name>
+  <fatherName>שוקר</fatherName>
+  <lastName>כהן</lastName>
+  <religion>תימן</religion>
+  <age>2 ש</age>
+  <notes>נתקבל ממשטרת ישראל</notes>
+  <caseNum>נ/27</caseNum>
+</row-330>
+<row-331>
+  <num>332</num>
+  <name>חיים</name>
+  <fatherName>אפרים</fatherName>
+  <lastName>קרני</lastName>
+  <religion>תימן</religion>
+  <age>4 ח</age>
+  <notes></notes>
+  <caseNum>נ/72</caseNum>
+</row-331>
+<row-332>
+  <num>333</num>
+  <name>שושנה</name>
+  <fatherName>סלם</fatherName>
+  <lastName>קוטה</lastName>
+  <religion>תימן</religion>
+  <age>1 ח</age>
+  <notes></notes>
+  <caseNum>נ/240</caseNum>
+</row-332>
+<row-333>
+  <num>334</num>
+  <name>תרנג'ה</name>
+  <fatherName>משה</fatherName>
+  <lastName>גובאני</lastName>
+  <religion>תימן</religion>
+  <age>5 ש</age>
+  <notes></notes>
+  <caseNum>נ/163</caseNum>
+</row-333>
+<row-334>
+  <num>335</num>
+  <name>ציון</name>
+  <fatherName>רפאל</fatherName>
+  <lastName>עמרני</lastName>
+  <religion>תימן</religion>
+  <age>6 ח</age>
+  <notes></notes>
+  <caseNum>נ/79</caseNum>
+</row-334>
+<row-335>
+  <num>336</num>
+  <name>תמניה</name>
+  <fatherName>יוסף</fatherName>
+  <lastName>הברי</lastName>
+  <religion>תימן</religion>
+  <age>12 ש</age>
+  <notes></notes>
+  <caseNum>נ/153</caseNum>
+</row-335>
+<row-336>
+  <num>337</num>
+  <name>ציון</name>
+  <fatherName>סלם</fatherName>
+  <lastName>ערוסי</lastName>
+  <religion>תימן</religion>
+  <age>1 ח</age>
+  <notes></notes>
+  <caseNum>נ/94</caseNum>
+</row-336>
+<row-337>
+  <num>338</num>
+  <name>רחל-שרה</name>
+  <fatherName>מנשה</fatherName>
+  <lastName>לידני</lastName>
+  <religion>תימן</religion>
+  <age>3 שבוע</age>
+  <notes></notes>
+  <caseNum>נ/19</caseNum>
+</row-337>
+<row-338>
+  <num>339</num>
+  <name>רות</name>
+  <fatherName>חיים</fatherName>
+  <lastName>עמרן</lastName>
+  <religion>תימן</religion>
+  <age>1 יום</age>
+  <notes></notes>
+  <caseNum>נ/318</caseNum>
+</row-338>
+<row-339>
+  <num>340</num>
+  <name>ידידה-נצחיה</name>
+  <fatherName>סאלם</fatherName>
+  <lastName>בוני</lastName>
+  <religion>תימן</religion>
+  <age>5 ח</age>
+  <notes></notes>
+  <caseNum>נ/311</caseNum>
+</row-339>
+<row-340>
+  <num>341</num>
+  <name>אליה</name>
+  <fatherName>סעדיה</fatherName>
+  <lastName>יששכר</lastName>
+  <religion>תימן</religion>
+  <age>1 ש</age>
+  <notes></notes>
+  <caseNum>נ/213</caseNum>
+</row-340>
+<row-341>
+  <num>342</num>
+  <name>אליהו-יוסף</name>
+  <fatherName>יחיא (צלח)</fatherName>
+  <lastName>צדוק</lastName>
+  <religion>תימן</religion>
+  <age>2 ש</age>
+  <notes></notes>
+  <caseNum>נ/339</caseNum>
+</row-341>
+
+</list>
